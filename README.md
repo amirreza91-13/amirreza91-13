@@ -1,130 +1,419 @@
+# 🟢 `AMIRREZA.DEV` — GitHub Profile
+
 <div align="center">
 
-# Hi, I'm Amirreza 👋
+```text
+███╗   ███╗ ██████╗ ██████╗ ███████╗██████╗ ███████╗███████╗ █████╗
+████╗ ████║██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝╚══███╔╝██╔══██╗
+██╔████╔██║██║   ██║██║  ██║█████╗  ██████╔╝█████╗    ███╔╝ ███████║
+██║╚██╔╝██║██║   ██║██║  ██║██╔══╝  ██╔══██╗██╔══╝   ███╔╝  ██╔══██║
+██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗██║  ██║███████╗███████╗██║  ██║
+╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-### Full-Stack Developer • AI Builder • Open Source Enthusiast
+### `> FULL-STACK DEVELOPER`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+real-world+software;Full-Stack+Web+Development;AI+%26+LLM+Applications;Real-Time+Systems+%7C+APIs+%7C+PWAs;Always+building%2C+always+learning" />
+```text
+[ SYSTEM INITIALIZED ]
 
-<br><br>
+> whoami
+Amirreza
 
-<a href="https://github.com/amirreza91-13">
-<img src="https://img.shields.io/github/followers/amirreza91-13?label=Followers&style=for-the-badge">
-</a>
-<a href="https://github.com/amirreza91-13?tab=repositories">
-<img src="https://img.shields.io/github/stars/amirreza91-13?affiliations=OWNER&style=for-the-badge">
-</a>
+> role
+Full-Stack Developer
+
+> focus
+Web Applications • APIs • AI Integration • Developer Tools
+
+> status
+● ONLINE
+```
+
+[ `GitHub` ] · [ `Projects` ] · [ `Contact` ]
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a developer who learns by building real projects.
-
-I enjoy working across the stack — from frontend interfaces and APIs
-to backend systems, real-time applications and AI-powered tools.
-
-### What I like building
-
-- 🌐 Full-Stack Web Applications
-- 🤖 AI & LLM Applications
-- ⚡ Real-Time Systems
-- 🔌 APIs & Developer Tools
-- 📱 Progressive Web Apps
-- 🧠 Experimental Projects
-- 🔓 Open Source Software
-
----
-
-## 🛠️ My Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
-</p>
-
-`SQL` `PowerShell`
-
-### Frameworks & Runtime
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask" />
-</p>
-
-`Streamlit` `Socket.IO`
-
-### Web & Backend
-
-`REST APIs` `JWT` `CORS` `PWA`
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-`PowerShell` `Terminal`
-
----
-
-# 🤖 AI Toolbox
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/OpenAI-Codex-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Gemini-AI-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Codium-AI-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Google-AI%20Studio-4285F4?style=for-the-badge" />
-
-</p>
-
-I use AI as a development tool for exploring ideas,
-debugging, prototyping and learning — while keeping the actual
-engineering work under my control.
-
----
-
-# 🚀 Projects
-
-## 🏠 Mirhaj Real Estate
-
-A full-stack real-estate platform built for the Jarquyeh region.
-
-**Built with**
-
-`Node.js` `Express.js` `JavaScript` `HTML` `CSS`
-`Socket.IO` `JWT` `PWA` `SQL`
-
-🔗 **[View Repository](https://github.com/amirreza91-13/mirhaj-realestate)**
-
----
-
-## 🤖 DeepSeek API Kit
-
-A Python-based toolkit for working with DeepSeek-powered
-applications and API-compatible workflows.
-
-**Built with**
-
-`Python` `FastAPI` `Uvicorn` `DeepSeek`
-
-🔗 **[View Repository](https://github.com/amirreza91-13/deepseek-api-kit)**
-
----
-
-# 🧪 Currently Exploring
+## `01 // WHOAMI`
 
 ```text
-Modern Full-Stack Development
-          ↓
-AI & LLM Applications
-          ↓
-Real-Time Architecture
-          ↓
-Developer Tools
-          ↓
-Open Source
+┌──[ amirreza@github ]─[ ~/profile ]
+│
+├─ $ whoami
+│  └─ Full-Stack Developer
+│
+├─ $ mission
+│  └─ Build useful things. Learn continuously.
+│
+├─ $ interests
+│  ├─ Web Development
+│  ├─ Backend Systems
+│  ├─ APIs
+│  ├─ Real-Time Applications
+│  ├─ AI / LLM Integration
+│  └─ Developer Tooling
+│
+└─ $ status
+   └─ ● BUILDING
+```
+
+I'm a developer focused on building **full-stack web applications, APIs, real-time systems and AI-powered developer tools**.
+
+I enjoy taking an idea from a simple concept and turning it into a working system — from frontend interfaces to backend architecture, databases, authentication and APIs.
+
+---
+
+## `02 // NEOFETCH`
+
+```text
+                   .---.
+                  /     \
+                 |  ◉ ◉  |      AMIRREZA
+                 |   ▄   |      ───────────────
+                  \     /       OS        → Windows
+                   '---'        Shell     → PowerShell
+                                Editor    → VS Code
+                                Runtime   → Node.js
+                                Language  → JavaScript / TypeScript
+                                Backend   → Node.js / Express
+                                Python    → Python / Streamlit
+                                Database  → SQL / SQLite
+                                Version   → Git / GitHub
+                                Status    → ● ONLINE
+```
+
+---
+
+# `03 // FULL-STACK ARSENAL`
+
+### `FRONTEND`
+
+```text
+HTML
+CSS
+JavaScript
+TypeScript
+React
+PWA
+```
+
+### `BACKEND`
+
+```text
+Node.js
+Express.js
+FastAPI
+Socket.IO
+REST API
+CORS
+JWT
+```
+
+### `DATABASE`
+
+```text
+SQL
+SQLite
+Database Design
+Data Management
+```
+
+### `PYTHON`
+
+```text
+Python
+Streamlit
+FastAPI
+Uvicorn
+```
+
+### `DEVELOPER TOOLS`
+
+```text
+Git
+GitHub
+GitHub Actions
+PowerShell
+Terminal
+VS Code
+```
+
+---
+
+# `04 // AI STACK`
+
+```text
+┌─────────────────────────────────────────────┐
+│              AI DEVELOPMENT STACK           │
+├─────────────────────────────────────────────┤
+│                                             │
+│  OpenAI Codex       ████████████████████    │
+│  Claude             ████████████████████    │
+│  Gemini              ████████████████████    │
+│  Google AI Studio    ████████████████████    │
+│  Codium              ████████████████████    │
+│  DeepSeek            ████████████████████    │
+│                                             │
+│  AI / LLM Integration                       │
+│  OpenAI-compatible APIs                     │
+│  API Integration                            │
+│  Developer Tooling                          │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+> AI isn't just something I use — I'm exploring how to integrate it into real applications and developer workflows.
+
+---
+
+# `05 // FEATURED PROJECTS`
+
+## 🔥 `Mirhaj Real Estate`
+
+**A real-world full-stack real-estate platform.**
+
+A project built around real estate listings and practical web application requirements.
+
+```text
+Frontend       → HTML / CSS / JavaScript
+Backend        → Node.js
+Database       → SQLite / SQL
+Authentication → JWT
+Real-Time      → Socket.IO
+Web App        → PWA
+API            → REST
+```
+
+### Core Ideas
+
+* 🏠 Real-estate listings
+* 👤 User registration & authentication
+* 🗄️ Database-backed application
+* 📡 API architecture
+* ⚡ Real-time capabilities
+* 📱 Progressive Web App
+* 🔐 Authentication & session management
+
+---
+
+## 🤖 `DeepSeek API Kit`
+
+**A developer-focused project around AI/API integration.**
+
+```text
+> initialize deepseek-api-kit
+
+[✓] API Integration
+[✓] AI / LLM Workflow
+[✓] Developer Tooling
+[✓] OpenAI-compatible Architecture
+[✓] Experimentation
+```
+
+The goal is to make working with AI APIs more practical, reusable and developer-friendly.
+
+---
+
+# `06 // CURRENTLY BUILDING`
+
+```text
+┌─[ amirreza@github ]─[ ~/projects ]
+│
+├── ● Mirhaj Real Estate
+│     └─ Full-Stack Web Application
+│
+├── ● DeepSeek API Kit
+│     └─ AI / API Developer Tooling
+│
+└── ● New Experiments
+      └─ AI × Full-Stack Development
+
+STATUS: ████████████████████░  ACTIVE
+```
+
+---
+
+# `07 // LEARNING / EXPLORING`
+
+```text
+> cat learning.log
+
+[ IN PROGRESS ]
+
+→ React
+→ TypeScript
+→ Advanced Backend Architecture
+→ API Design
+→ Real-Time Applications
+→ AI / LLM Integration
+→ Developer Tooling
+→ Full-Stack Architecture
+
+[ STATUS ]
+██████████████████░░░░  EVOLVING
+```
+
+---
+
+# `08 // DEVELOPER JOURNEY`
+
+```text
+HTML / CSS
+     │
+     ▼
+JavaScript
+     │
+     ▼
+Node.js
+     │
+     ├──────────────► Backend Development
+     │
+     ▼
+APIs / Databases
+     │
+     ▼
+React / TypeScript
+     │
+     ▼
+Full-Stack Development
+     │
+     ▼
+AI + Developer Tooling
+     │
+     ▼
+       ┌─────────────────────┐
+       │     STILL BUILDING  │
+       │     STILL LEARNING  │
+       │     STILL EXPLORING │
+       └─────────────────────┘
+```
+
+> `The journey doesn't have a final version.`
+
+---
+
+# `09 // GITHUB SYSTEM`
+
+<div align="center">
+
+### `> SYSTEM STATUS`
+
+```text
+┌─────────────────────────────────────┐
+│                                     │
+│  CODING        ● ONLINE             │
+│  BUILDING      ● ONLINE             │
+│  LEARNING      ● ONLINE             │
+│  AI SYSTEMS    ● ONLINE             │
+│  GITHUB        ● ONLINE             │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+### `GitHub Statistics`
+
+<!-- GitHub Stats -->
+
+### `Contribution Activity`
+
+<!-- Contribution Graph -->
+
+### `Contribution Snake`
+
+<!-- Snake Animation -->
+
+</div>
+
+---
+
+# `10 // TOOLBOX`
+
+```text
+┌─ LANGUAGES ─────────────────────────┐
+│ JavaScript • TypeScript • Python    │
+│ HTML • CSS                          │
+└────────────────────────────────────┘
+
+┌─ FRAMEWORKS / RUNTIMES ─────────────┐
+│ React • Node.js • Express           │
+│ FastAPI • Streamlit                 │
+└────────────────────────────────────┘
+
+┌─ BACKEND ───────────────────────────┐
+│ REST API • Socket.IO • JWT • CORS   │
+└────────────────────────────────────┘
+
+┌─ DATA ──────────────────────────────┐
+│ SQL • SQLite                        │
+└────────────────────────────────────┘
+
+┌─ TOOLS ─────────────────────────────┐
+│ Git • GitHub • PowerShell • VS Code │
+└────────────────────────────────────┘
+
+┌─ AI ────────────────────────────────┐
+│ Codex • Claude • Gemini             │
+│ Codium • DeepSeek • AI Studio      │
+└────────────────────────────────────┘
+```
+
+---
+
+# `11 // DEVELOPMENT PHILOSOPHY`
+
+```text
+01. Build before you overthink.
+02. Learn by creating real projects.
+03. Keep improving the architecture.
+04. Use AI as a tool, not a replacement for thinking.
+05. Turn ideas into working systems.
+06. Stay curious.
+07. Keep shipping.
+```
+
+---
+
+# `12 // TERMINAL`
+
+```text
+$ git status
+
+On branch main
+
+Changes not staged for commit:
+
+  modified:   skills.md
+  modified:   projects.md
+  modified:   learning.md
+
+nothing to commit yet.
+
+$ echo "Keep building."
+
+Keep building.
+
+$ █
+```
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║       > connection established                          ║
+║       > developer profile loaded                        ║
+║       > system status: ONLINE ●                         ║
+║                                                          ║
+║       BUILD • LEARN • EXPLORE • REPEAT                  ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+### `// END OF PROFILE`
+
+`<keep_building />` 💚
+
+</div>
