@@ -1,366 +1,110 @@
-# 🟢 `AMIRREZA.DEV` — GitHub Profile
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&lines=Amirreza+Dev;Full-Stack+Developer;AI+%2B+API+Integration;Building+Useful+Things" alt="Amirreza Dev" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Online-00D4FF?style=for-the-badge&logo=statuspal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack-00D4FF?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Iran-00D4FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-00D4FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-```text
-███╗   ███╗ ██████╗ ██████╗ ███████╗██████╗ ███████╗███████╗ █████╗
-████╗ ████║██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝╚══███╔╝██╔══██╗
-██╔████╔██║██║   ██║██║  ██║█████╗  ██████╔╝█████╗    ███╔╝ ███████║
-██║╚██╔╝██║██║   ██║██║  ██║██╔══╝  ██╔══██╗██╔══╝   ███╔╝  ██╔══██║
-██║ ╚═╝ ██║╚██████╔╝██████╔╝███████╗██║  ██║███████╗███████╗██║  ██║
-╚═╝     ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
-
-### `> FULL-STACK DEVELOPER`
-
-```text
-[ SYSTEM INITIALIZED ]
-
-> whoami
-Amirreza
-
-> role
-Full-Stack Developer
-
-> focus
-Web Applications • APIs • AI Integration • Developer Tools
-
-> status
-● ONLINE
-```
-
-[ `GitHub` ] · [ `Projects` ] · [ `Contact` ]
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirreza91-13&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/amirreza91-13?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/amirreza91-13?style=social" alt="Stars" />
+</p>
 
 ---
 
-## `01 // WHOAMI`
+## 👨‍💻 About Me
 
-```text
-┌──[ amirreza@github ]─[ ~/profile ]
-│
-├─ $ whoami
-│  └─ Full-Stack Developer
-│
-├─ $ mission
-│  └─ Build useful things. Learn continuously.
-│
-├─ $ interests
-│  ├─ Web Development
-│  ├─ Backend Systems
-│  ├─ APIs
-│  ├─ Real-Time Applications
-│  ├─ AI / LLM Integration
-│  └─ Developer Tooling
-│
-└─ $ status
-   └─ ● BUILDING
-```
+Hey there! I'm **Amirreza**, a Full-Stack Developer who loves turning ideas into working systems. I enjoy building web applications, APIs, real-time systems, and exploring how AI can be integrated into developer tools.
 
-I'm a developer focused on building **full-stack web applications, APIs, real-time systems and AI-powered developer tools**.
+> 💡 *“Build before you overthink. Learn by creating real projects.”*
 
-I enjoy taking an idea from a simple concept and turning it into a working system — from frontend interfaces to backend architecture, databases, authentication and APIs.
+- 🔭 Currently building: **Mirhaj Real Estate** & **Local Coding Assistant**
+- 🌱 Learning: React, TypeScript, Advanced Backend Architecture
+- 🤝 Open to collaborate on: Full-Stack Projects & AI Tooling
+- 📫 Reach me: [GitHub Issues](https://github.com/amirreza91-13) or [Email](mailto:amirreza.dev@example.com)
 
 ---
 
-## `02 // NEOFETCH`
+## 🛠️ Tech Stack
 
-```text
-                   .---.
-                  /     \
-                 |  ◉ ◉  |      AMIRREZA
-                 |   ▄   |      ───────────────
-                  \     /       OS        → Windows
-                   '---'        Shell     → PowerShell
-                                Editor    → VS Code
-                                Runtime   → Node.js
-                                Language  → JavaScript / TypeScript
-                                Backend   → Node.js / Express
-                                Python    → Python / Streamlit
-                                Database  → SQL / SQLite
-                                Version   → Git / GitHub
-                                Status    → ● ONLINE
-```
+### Languages & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
----
+### Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-# `03 // FULL-STACK ARSENAL`
+### Frontend & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</p>
 
-### `FRONTEND`
-
-```text
-HTML
-CSS
-JavaScript
-TypeScript
-React
-PWA
-```
-
-### `BACKEND`
-
-```text
-Node.js
-Express.js
-FastAPI
-Socket.IO
-REST API
-CORS
-JWT
-```
-
-### `DATABASE`
-
-```text
-SQL
-SQLite
-Database Design
-Data Management
-```
-
-### `PYTHON`
-
-```text
-Python
-Streamlit
-FastAPI
-Uvicorn
-```
-
-### `DEVELOPER TOOLS`
-
-```text
-Git
-GitHub
-GitHub Actions
-PowerShell
-Terminal
-VS Code
-```
+### 🤖 AI Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-00D4FF?style=for-the-badge&logo=qwen&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white" />
+</p>
 
 ---
 
-# `04 // AI STACK`
+## 📁 Featured Projects
 
-```text
-┌─────────────────────────────────────────────┐
-│              AI DEVELOPMENT STACK           │
-├─────────────────────────────────────────────┤
-│                                             │
-│  OpenAI Codex       ████████████████████    │
-│  Claude             ████████████████████    │
-│  Gemini              ████████████████████    │
-│  Google AI Studio    ████████████████████    │
-│  Codium              ████████████████████    │
-│  DeepSeek            ████████████████████    │
-│                                             │
-│  AI / LLM Integration                       │
-│  OpenAI-compatible APIs                     │
-│  API Integration                            │
-│  Developer Tooling                          │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+### 🧠 Local Coding Assistant
+A fully **offline**, privacy-focused AI chatbot for developers. Built with **LangChain**, **Streamlit**, and **Ollama** using the **Qwen2.5-Coder 7B** model.
+- **Stack:** Python, LangChain, Streamlit, Ollama, Qwen2.5-Coder
+- **Features:** 100% Local & Private, Coding-Focused, Smart Memory, Neon UI
+- **Repo:** [Local-Coding-Assistant](https://github.com/amirreza91-13/Local-Coding-Assistant)
 
-> AI isn't just something I use — I'm exploring how to integrate it into real applications and developer workflows.
+### 🏡 Mirhaj Real Estate
+A full-stack real-estate platform with listings, authentication, real-time updates, and PWA support.
+- **Stack:** HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT, Socket.IO
+- **Features:** User Auth, REST API, Real-Time, PWA
+
+### 🧪 DeepSeek API Kit
+A developer toolkit for working with AI/LLM APIs — reusable, practical, and OpenAI-compatible.
+- **Stack:** Python, FastAPI, Streamlit
+- **Features:** API Integration, AI Workflow, Developer Tooling
 
 ---
 
-# `05 // FEATURED PROJECTS`
+## 📊 GitHub Stats
 
-## 🔥 `Mirhaj Real Estate`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" width="48%" />
+</p>
 
-**A real-world full-stack real-estate platform.**
-
-A project built around real estate listings and practical web application requirements.
-
-```text
-Frontend       → HTML / CSS / JavaScript
-Backend        → Node.js
-Database       → SQLite / SQL
-Authentication → JWT
-Real-Time      → Socket.IO
-Web App        → PWA
-API            → REST
-```
-
-### Core Ideas
-
-* 🏠 Real-estate listings
-* 👤 User registration & authentication
-* 🗄️ Database-backed application
-* 📡 API architecture
-* ⚡ Real-time capabilities
-* 📱 Progressive Web App
-* 🔐 Authentication & session management
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza91-13&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="48%" />
+</p>
 
 ---
 
-## 🤖 `DeepSeek API Kit`
-
-**A developer-focused project around AI/API integration.**
-
-```text
-> initialize deepseek-api-kit
-
-[✓] API Integration
-[✓] AI / LLM Workflow
-[✓] Developer Tooling
-[✓] OpenAI-compatible Architecture
-[✓] Experimentation
-```
-
-The goal is to make working with AI APIs more practical, reusable and developer-friendly.
-
----
-
-# `06 // CURRENTLY BUILDING`
-
-```text
-┌─[ amirreza@github ]─[ ~/projects ]
-│
-├── ● Mirhaj Real Estate
-│     └─ Full-Stack Web Application
-│
-├── ● DeepSeek API Kit
-│     └─ AI / API Developer Tooling
-│
-└── ● New Experiments
-      └─ AI × Full-Stack Development
-
-STATUS: ████████████████████░  ACTIVE
-```
-
----
-
-# `07 // LEARNING / EXPLORING`
-
-```text
-> cat learning.log
-
-[ IN PROGRESS ]
-
-→ React
-→ TypeScript
-→ Advanced Backend Architecture
-→ API Design
-→ Real-Time Applications
-→ AI / LLM Integration
-→ Developer Tooling
-→ Full-Stack Architecture
-
-[ STATUS ]
-██████████████████░░░░  EVOLVING
-```
-
----
-
-# `08 // DEVELOPER JOURNEY`
-
-```text
-HTML / CSS
-     │
-     ▼
-JavaScript
-     │
-     ▼
-Node.js
-     │
-     ├──────────────► Backend Development
-     │
-     ▼
-APIs / Databases
-     │
-     ▼
-React / TypeScript
-     │
-     ▼
-Full-Stack Development
-     │
-     ▼
-AI + Developer Tooling
-     │
-     ▼
-       ┌─────────────────────┐
-       │     STILL BUILDING  │
-       │     STILL LEARNING  │
-       │     STILL EXPLORING │
-       └─────────────────────┘
-```
-
-> `The journey doesn't have a final version.`
-
----
-
-# `09 // GITHUB SYSTEM`
-
-<div align="center">
-
-### `> SYSTEM STATUS`
-
-```text
-┌─────────────────────────────────────┐
-│                                     │
-│  CODING        ● ONLINE             │
-│  BUILDING      ● ONLINE             │
-│  LEARNING      ● ONLINE             │
-│  AI SYSTEMS    ● ONLINE             │
-│  GITHUB        ● ONLINE             │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-### `GitHub Statistics`
-
-<!-- GitHub Stats -->
-
-### `Contribution Activity`
-
-<!-- Contribution Graph -->
-
-### `Contribution Snake`
-
-<!-- Snake Animation -->
-
-</div>
-
----
-
-# `10 // TOOLBOX`
-
-```text
-┌─ LANGUAGES ─────────────────────────┐
-│ JavaScript • TypeScript • Python    │
-│ HTML • CSS                          │
-└────────────────────────────────────┘
-
-┌─ FRAMEWORKS / RUNTIMES ─────────────┐
-│ React • Node.js • Express           │
-│ FastAPI • Streamlit                 │
-└────────────────────────────────────┘
-
-┌─ BACKEND ───────────────────────────┐
-│ REST API • Socket.IO • JWT • CORS   │
-└────────────────────────────────────┘
-
-┌─ DATA ──────────────────────────────┐
-│ SQL • SQLite                        │
-└────────────────────────────────────┘
-
-┌─ TOOLS ─────────────────────────────┐
-│ Git • GitHub • PowerShell • VS Code │
-└────────────────────────────────────┘
-
-┌─ AI ────────────────────────────────┐
-│ Codex • Claude • Gemini             │
-│ Codium • DeepSeek • AI Studio      │
-└────────────────────────────────────┘
-```
-
----
-
-# `11 // DEVELOPMENT PHILOSOPHY`
+## 🧠 Development Philosophy
 
 ```text
 01. Build before you overthink.
@@ -374,46 +118,22 @@ AI + Developer Tooling
 
 ---
 
-# `12 // TERMINAL`
+## 📫 Let's Connect
 
-```text
-$ git status
-
-On branch main
-
-Changes not staged for commit:
-
-  modified:   skills.md
-  modified:   projects.md
-  modified:   learning.md
-
-nothing to commit yet.
-
-$ echo "Keep building."
-
-Keep building.
-
-$ █
-```
+<p align="center">
+  <a href="https://github.com/amirreza91-13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:amirreza.dev@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/amirreza91-13">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║       > connection established                          ║
-║       > developer profile loaded                        ║
-║       > system status: ONLINE ●                         ║
-║                                                          ║
-║       BUILD • LEARN • EXPLORE • REPEAT                  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-### `// END OF PROFILE`
-
-`<keep_building />` 💚
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer" />
+</p>
