@@ -1,139 +1,184 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&lines=Amirreza+Dev;Full-Stack+Developer;AI+%2B+API+Integration;Building+Useful+Things" alt="Amirreza Dev" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=650&color=00D4FF&center=true&vCenter=true&width=850&lines=Amirreza+%7C+AI+%2B+Software+Engineering;Building+Software%2C+Exploring+Intelligence;From+LLM+Integrations+to+Real-World+Applications;Learn.+Build.+Test.+Refine." alt="Amirreza — AI and Software Engineering" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-00D4FF?style=for-the-badge&logo=statuspal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-00D4FF?style=for-the-badge&logo=stackshare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Iran-00D4FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-00D4FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <strong>Software Development · AI Applications · API Integration · Automation</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirreza91-13&label=Profile%20Views&color=00D4FF&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/amirreza91-13?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/amirreza91-13?style=social" alt="Stars" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SOFTWARE-00D4FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/APPROACH-BUILD%20%26%20LEARN-00D4FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/EDITOR-VS%20CODE-00D4FF?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amirreza91-13&label=PROFILE%20VIEWS&color=00D4FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/amirreza91-13?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — The Developer Behind the Code
 
-Hey there! I'm **Amirreza**, a Full-Stack Developer who loves turning ideas into working systems. I enjoy building web applications, APIs, real-time systems, and exploring how AI can be integrated into developer tools.
+I'm **Amirreza**, a developer exploring the intersection of **software engineering, AI-powered applications, and automation**.
 
-> 💡 *“Build before you overthink. Learn by creating real projects.”*
+I learn by building practical projects: connecting language models to applications, experimenting with local inference, working with APIs, and developing full-stack systems that address real problems.
 
-- 🔭 Currently building: **Mirhaj Real Estate** & **Local Coding Assistant**
-- 🌱 Learning: React, TypeScript, Advanced Backend Architecture
-- 🤝 Open to collaborate on: Full-Stack Projects & AI Tooling
-- 📫 Reach me: [GitHub Issues](https://github.com/amirreza91-13) or [Email](mailto:amirreza.dev@example.com)
+My interest goes beyond getting an application to run. I want to understand how its components fit together, how data flows through the system, where failures can occur, and how the implementation can be improved.
+
+> **Build with curiosity. Understand the system. Improve through iteration.**
+
+### What I'm Exploring
+
+* **AI Applications:** Integrating language models into useful developer tools and applications.
+* **Software Engineering:** Building and improving APIs, backend services, and web applications.
+* **Local AI:** Experimenting with Ollama and locally run language models.
+* **Automation & Agents:** Exploring ways to connect tools, models, and workflows.
+* **Continuous Learning:** Strengthening programming fundamentals while progressing toward Machine Learning and AI Engineering.
 
 ---
 
-## 🛠️ Tech Stack
+## `02` — Selected Projects
 
-### Languages & Frameworks
-<p align="center">
+### 🧠 Local Coding Assistant
+
+**A local-first coding assistant powered by language models.**
+
+An experiment in building a developer-facing AI application using a local model runtime and a conversational interface.
+
+**Technology:** Python · Streamlit · LangChain · Ollama · Qwen2.5-Coder
+
+* Integrates a locally hosted language model into a coding-focused chat interface.
+* Uses conversation history to support contextual follow-up questions.
+* Includes utilities for chat history, exporting, and related interaction workflows, as documented in the repository.
+* Explores the trade-offs of running language models on personal hardware.
+
+**[Explore the repository →](https://github.com/amirreza91-13/Local-Coding-Assistant)**
+
+### 🔌 DeepSeek API Kit
+
+**A toolkit for connecting applications to LLM services.**
+
+A project focused on API integration patterns and practical interfaces for working with DeepSeek.
+
+**Technology:** Python · FastAPI · Streamlit · HTTP APIs
+
+* Provides an OpenAI-compatible proxy interface.
+* Includes a chat-server design with persistent sessions and a browser-based management panel.
+* Documents streaming, search controls, and API error-handling features.
+* Explores how model services can be exposed through reusable application interfaces.
+
+**[Explore the repository →](https://github.com/amirreza91-13/deepseek-api-kit)**
+
+### 🏡 Mirhaj Real Estate
+
+**A full-stack web application for a real-world property-listing use case.**
+
+A regional real-estate platform designed around property discovery and management.
+
+**Technology:** JavaScript · Node.js · Express · Socket.IO · Database Integration
+
+* Organizes frontend, backend, database, and middleware responsibilities.
+* Includes property listings, search, user authentication, and profile-related functionality.
+* Documents real-time communication and Progressive Web App capabilities.
+* Connects software development with a practical business domain.
+
+**[Explore the repository →](https://github.com/amirreza91-13/mirhaj-realestate)**
+
+---
+
+## `03` — Technology Landscape
+
+The tools below reflect technologies represented in my projects and development experiments. Listing a technology does not imply equal proficiency in every tool.
+
+### Languages & Web
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Backend & Database
-<p align="center">
+### Backend & Application Development
+
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
 </p>
 
-### Frontend & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+### AI & Language Model Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-00D4FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### Developer Workflow
+
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
-### 🤖 AI Stack
+---
+
+## `04` — GitHub Activity
+
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qwen-00D4FF?style=for-the-badge&logo=qwen&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza91-13&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E" width="80%" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 📁 Featured Projects
-
-### 🧠 Local Coding Assistant
-A fully **offline**, privacy-focused AI chatbot for developers. Built with **LangChain**, **Streamlit**, and **Ollama** using the **Qwen2.5-Coder 7B** model.
-- **Stack:** Python, LangChain, Streamlit, Ollama, Qwen2.5-Coder
-- **Features:** 100% Local & Private, Coding-Focused, Smart Memory, Neon UI
-- **Repo:** [Local-Coding-Assistant](https://github.com/amirreza91-13/Local-Coding-Assistant)
-
-### 🏡 Mirhaj Real Estate
-A full-stack real-estate platform with listings, authentication, real-time updates, and PWA support.
-- **Stack:** HTML, CSS, JavaScript, Node.js, Express, SQLite, JWT, Socket.IO
-- **Features:** User Auth, REST API, Real-Time, PWA
-
-### 🧪 DeepSeek API Kit
-A developer toolkit for working with AI/LLM APIs — reusable, practical, and OpenAI-compatible.
-- **Stack:** Python, FastAPI, Streamlit
-- **Features:** API Integration, AI Workflow, Developer Tooling
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirreza91-13&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="48%" />
-</p>
-
----
-
-## 🧠 Development Philosophy
+## `05` — Engineering Principles
 
 ```text
-01. Build before you overthink.
-02. Learn by creating real projects.
-03. Keep improving the architecture.
-04. Use AI as a tool, not a replacement for thinking.
-05. Turn ideas into working systems.
-06. Stay curious.
-07. Keep shipping.
+01 / Build to understand, not just to finish.
+02 / Treat AI as a tool; keep human reasoning in the loop.
+03 / Prefer understandable systems over unnecessary complexity.
+04 / Test assumptions instead of trusting appearances.
+05 / Document limitations as well as capabilities.
+06 / Improve through small, deliberate iterations.
+07 / Turn experiments into reproducible knowledge.
 ```
 
 ---
 
-## 📫 Let's Connect
+## `06` — Where I'm Heading
 
-<p align="center">
-  <a href="https://github.com/amirreza91-13">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:amirreza.dev@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/amirreza91-13">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+My long-term direction is **AI Engineering**: developing a strong foundation in software engineering, then building toward Machine Learning, LLM-powered applications, intelligent agents, and automation systems.
+
+The goal is not simply to use more tools. It is to understand the underlying systems well enough to build, evaluate, and improve useful solutions.
+
+I'm interested in practical projects, thoughtful collaboration, and learning through implementation.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=100&section=footer" />
+  <strong>Curiosity → Experiments → Working Systems → Better Engineering</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amirreza91-13">
+    <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore my GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0D1117&height=110&section=footer" alt="" />
 </p>
