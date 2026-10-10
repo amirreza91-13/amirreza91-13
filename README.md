@@ -20,14 +20,14 @@ I'm a freelancer building practical software projects while developing my skills
 
 My approach is hands-on: learn the fundamentals, build real projects, test assumptions, and improve through iteration.
 
-My current focus is on software development, API integration, and automation. My long-term goal is to become an AI engineer capable of designing and building useful, reliable intelligent systems.
+My current focus is software development, API integration, and automation. My long-term goal is to become an AI engineer capable of designing and building useful, reliable intelligent systems.
 
 ## What I'm Working Toward
 
-* **Software Development** — Building and improving practical applications.
-* **Workflow Automation** — Exploring ways to reduce repetitive work and connect useful tools.
-* **AI-Powered Applications** — Learning how to integrate language models and APIs into software.
-* **Engineering Foundations** — Improving programming, debugging, testing, and maintainability.
+- **Software Development** — Building and improving practical applications.
+- **Workflow Automation** — Exploring ways to reduce repetitive work and connect useful tools.
+- **AI-Powered Applications** — Learning how to integrate language models and APIs into software.
+- **Engineering Foundations** — Improving programming, debugging, testing, and maintainability.
 
 ## Selected Projects
 
@@ -77,36 +77,36 @@ The technologies below are associated with my projects and development environme
 
 **Languages and Frontend**
 
-* Python
-* JavaScript
-* TypeScript
-* React
-* HTML and CSS
+- Python
+- JavaScript
+- TypeScript
+- React
+- HTML and CSS
 
 **Backend and Data**
 
-* Django
-* FastAPI
-* Node.js and Express
-* REST APIs and JSON
-* SQLite and sql.js
+- Django
+- FastAPI
+- Node.js and Express
+- REST APIs and JSON
+- SQLite and sql.js
 
 **Development Workflow**
 
-* Git and GitHub
-* PowerShell
-* Vite
+- Git and GitHub
+- PowerShell
+- Vite
 
 ## AI & Automation Lab
 
 I'm exploring tools and techniques for AI-assisted development, workflow automation, and local AI experimentation.
 
-* **Workflow automation:** n8n
-* **AI-assisted development:** Claude Code and Codex
-* **Model access:** OpenRouter and NVIDIA's AI ecosystem
-* **Local AI experimentation:** Ollama and LM Studio
-* **Agent systems:** Hermes Agent and OpenClaw
-* **Integration concepts:** APIs, tools, and Model Context Protocol (MCP)
+- **Workflow automation:** n8n
+- **AI-assisted development:** Claude Code and Codex
+- **Model access:** OpenRouter and NVIDIA's AI ecosystem
+- **Local AI experimentation:** Ollama and LM Studio
+- **Agent systems:** Hermes Agent and OpenClaw
+- **Integration concepts:** APIs, tools, and Model Context Protocol (MCP)
 
 These are areas of learning and experimentation, not claims that every tool is integrated into a finished product or deployed in production.
 
@@ -114,9 +114,9 @@ These are areas of learning and experimentation, not claims that every tool is i
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirreza91-13\&show_icons=true\&hide_border=true\&bg_color=101713\&title_color=4DCE8A\&text_color=E5EEE8\&icon_color=D5A15B)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=101713&title_color=4DCE8A&text_color=E5EEE8&icon_color=D5A15B)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13\&layout=compact\&hide_border=true\&bg_color=101713\&title_color=4DCE8A\&text_color=E5EEE8\&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&hide_border=true&bg_color=101713&title_color=4DCE8A&text_color=E5EEE8&langs_count=8)
 
 </div>
 
@@ -130,9 +130,9 @@ I aim to turn consistent learning into useful software, reliable automation, and
 
 ## Connect
 
-* **GitHub:** [amirreza91-13](https://github.com/amirreza91-13)
-* **LinkedIn:** [Amirreza Mirhaj](https://www.linkedin.com/in/amirreza-mirhaj-490250435/)
-* **Email:** [amirreza.91mirhaj@gmail.com](mailto:amirreza.91mirhaj@gmail.com)
+- **GitHub:** [amirreza91-13](https://github.com/amirreza91-13)
+- **LinkedIn:** [Amirreza Mirhaj](https://www.linkedin.com/in/amirreza-mirhaj-490250435/)
+- **Email:** [amirreza.91mirhaj@gmail.com](mailto:amirreza.91mirhaj@gmail.com)
 
 <div align="center">
 
