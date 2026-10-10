@@ -1,132 +1,177 @@
- <div align="center">
-
-<img src="assets/profile-banner.png" width="100%" alt="Amirreza Mirhaj — Software Development, Automation and AI">
+![Amirreza Mirhaj — Software Development, Automation and AI](banner.png)
 
 # AMIRREZA MIRHAJ
 
-### Freelancer · Software Developer · Aspiring AI Engineer
+### Freelancer · Software Developer · Automation Builder
 
-**Build Software. Automate Workflows. Engineer Intelligence.**
+**Building Practical Software. Automating Workflows. Growing Toward AI Engineering.**
 
-I build practical software projects, explore workflow automation, and develop my skills in AI-powered applications. My current focus is combining software development and automation to create useful digital solutions, with a long-term goal of becoming an AI engineer.
+I’m a freelancer focused on building practical software solutions, exploring workflow automation, and developing the engineering foundations needed to create useful AI-powered applications.
 
-[![GitHub](https://img.shields.io/badge/GitHub-111713?style=flat-square\&logo=github\&logoColor=white)](https://github.com/amirreza91-13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-167D56?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amirreza-mirhaj-490250435/)
-[![Email](https://img.shields.io/badge/Email-C58B43?style=flat-square\&logo=gmail\&logoColor=111713)](mailto:amirreza.91mirhaj@gmail.com)
+My approach is simple: understand the problem, build a practical solution, test what works, and keep improving.
 
-</div>
+[GitHub](https://github.com/amirreza91-13) · [LinkedIn](https://www.linkedin.com/in/amirreza-mirhaj-490250435/) · [Email](mailto:amirreza.91mirhaj@gmail.com)
 
 ---
 
 ## About Me
 
-I'm a freelancer building practical software development skills through projects, experimentation, and continuous learning.
+I’m developing my career at the intersection of software development, automation, and artificial intelligence.
 
-I’m interested in the intersection of software engineering, automation, and artificial intelligence. I want to understand not only how individual tools work, but also how to connect them into reliable, useful systems.
+I’m interested in more than writing code. I want to understand how applications, APIs, databases, and AI tools can work together to solve real problems.
 
-* **Software Development:** Building applications and exploring web technologies, APIs, and backend systems.
-* **Workflow Automation:** Learning to connect services and streamline repetitive tasks.
-* **AI-Assisted Development:** Exploring coding assistants and AI-supported development workflows.
-* **Local AI:** Investigating local language models and resource-aware AI tools.
-* **Long-Term Direction:** Developing the foundations needed to build AI-powered applications and intelligent systems.
+My current priorities are:
 
-My approach is straightforward: learn the fundamentals, build practical projects, document what works, and improve through iteration.
+* **Software Development:** Building and improving practical applications.
+* **Freelancing:** Developing a portfolio around useful, clearly defined digital solutions.
+* **Workflow Automation:** Exploring ways to connect services and reduce repetitive work.
+* **AI Integration:** Learning how to incorporate language models into software workflows.
+* **AI Engineering:** Building a strong technical foundation for more advanced intelligent systems.
 
-## What I'm Working Toward
+I value practical experimentation, honest documentation, and continuous improvement over unsupported claims of expertise.
 
-| Focus                | Direction                                                                     |
-| -------------------- | ----------------------------------------------------------------------------- |
-| Software Engineering | Writing maintainable code and building practical applications                 |
-| Freelancing          | Developing useful digital solutions and strengthening my project portfolio    |
-| API Integration      | Connecting applications with external services and AI models                  |
-| Automation           | Building reusable workflows and exploring agent-based systems                 |
-| AI Engineering       | Progressing toward model integration, intelligent applications, and AI agents |
+## Selected Projects
 
-## Technology Stack
+### 01 — Planner
 
-My technology stack reflects a combination of project work, practical exposure, and ongoing learning. The presence of a tool here does not imply expert-level proficiency.
+**A local-first personal planning application**
 
-### Programming & Web Development
+A web application project combining a React and TypeScript frontend with a Python and Django backend.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=111713)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-303030?style=flat-square\&logo=express\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+**Technologies:** React · TypeScript · Vite · Python · Django · SQLite
 
-### APIs & Data
+**Focus areas:** Application architecture, frontend development, backend integration, and personal productivity workflows.
 
-![REST API](https://img.shields.io/badge/REST%20APIs-167D56?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-303030?style=flat-square\&logo=json\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-C58B43?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+[Explore the repository →](https://github.com/amirreza91-13/planner)
 
-### Development Tools
+*Status: In development.*
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111713?style=flat-square\&logo=github\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square\&logo=powershell\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+### 02 — DeepSeek API Kit
 
-### AI & Language Models
+**Python-based model API integration**
 
-![Ollama](https://img.shields.io/badge/Ollama-303030?style=flat-square)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-167D56?style=flat-square)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-C58B43?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square\&logo=googlegemini\&logoColor=white)
+A project exploring an OpenAI-style API proxy and a separate DeepSeek-oriented chat application built with FastAPI.
 
-These tools form part of my exploration of AI-assisted coding, model APIs, and local AI workflows. Specific implementations and levels of experience vary.
+**Technologies:** Python · FastAPI · REST APIs · JSON
 
-## Currently Exploring
+**Focus areas:** API integration, service structure, model connectivity, and chat-session persistence.
 
-My current learning interests include:
+[Explore the repository →](https://github.com/amirreza91-13/deepseek-api-kit)
 
-* **AI Agents:** Understanding how models, tools, and context can work together.
-* **n8n Automation:** Learning to build connected, repeatable workflows.
-* **Model Context Protocol (MCP):** Exploring standardized connections between AI applications and tools.
-* **Local AI:** Investigating local inference and approaches suited to limited hardware resources.
-* **AI API Integration:** Learning how to connect language models to practical applications.
+*Status: Experimental; compatibility and security require validation.*
 
-These are areas of exploration, not claims of mastery. As projects become more complete and demonstrable, I intend to document the relevant implementations in their respective repositories.
+### 03 — Local Coding Assistant
 
-## My Roadmap
+**An experimental coding assistant using local language models**
 
-<div align="center">
+A Python project exploring local model interaction through Ollama, with a terminal entry point and a Streamlit interface.
 
-![Foundations](https://img.shields.io/badge/01-Software%20Foundations-111713?style=for-the-badge) <br>↓<br>
-![Development](https://img.shields.io/badge/02-Application%20Development-167D56?style=for-the-badge) <br>↓<br>
-![Automation](https://img.shields.io/badge/03-APIs%20%26%20Automation-25865E?style=for-the-badge) <br>↓<br>
-![AI](https://img.shields.io/badge/04-AI%20Integration%20%26%20Agents-C58B43?style=for-the-badge) <br>↓<br>
-![Engineering](https://img.shields.io/badge/05-AI%20Engineering-303030?style=for-the-badge)
+**Technologies:** Python · Ollama · Streamlit
 
-</div>
+**Focus areas:** Local inference, coding-assistant workflows, and conversation-history handling.
 
-My long-term objective is to build AI-powered applications that combine solid software foundations, useful automation, and reliable model integration.
+[Explore the repository →](https://github.com/amirreza91-13/Local-Coding-Assistant)
 
-## GitHub Statistics
+*Status: Experimental; interface behavior and core workflows require further testing.*
 
-<div align="center">
+### 04 — Mirhaj Real Estate
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=111713&title_color=4CAF80&text_color=E8EEE9&icon_color=C58B43&rank_icon=github" alt="GitHub statistics">
+**A web application for real-estate workflows**
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&hide_border=true&bg_color=111713&title_color=4CAF80&text_color=E8EEE9&langs_count=8" alt="Most-used languages in public repositories">
+A JavaScript-based application project with server-side functionality and components for authentication, database persistence, file handling, and real-time communication.
 
-</div>
+**Technologies:** JavaScript · Node.js · Express · Socket.IO · sql.js
 
-<sub>Statistics depend on available repository data and the availability of the external card service. Language statistics represent code detected in repositories, not proficiency.</sub>
+**Focus areas:** Web application architecture, backend development, data management, and real-estate-related workflows.
+
+[Explore the repository →](https://github.com/amirreza91-13/mirhaj-realestate)
+
+*Status: Development project; production readiness and security require verification.*
 
 ---
 
-<div align="center">
+## Technical Skills
 
-### Build Today. Engineer Tomorrow.
+My skills are best understood through three categories: technologies represented in my projects, tools I use during development, and areas I am actively learning.
 
-**Learn · Build · Automate · Improve**
+### Project-Based Technologies
 
-[![Connect on LinkedIn](https://img.shields.io/badge/CONNECT-LinkedIn-167D56?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amirreza-mirhaj-490250435/)
-[![Contact by Email](https://img.shields.io/badge/CONTACT-Email-C58B43?style=for-the-badge\&logo=gmail\&logoColor=111713)](mailto:amirreza.91mirhaj@gmail.com)
+| Area        | Technologies                       |
+| ----------- | ---------------------------------- |
+| Programming | Python, JavaScript                 |
+| Frontend    | React, TypeScript, HTML, CSS, Vite |
+| Backend     | Django, FastAPI, Node.js, Express  |
+| APIs & Data | REST APIs, JSON, SQLite, sql.js    |
+| Development | Git, GitHub, PowerShell            |
 
-</div>
+These technologies appear in my public projects. Their presence does not imply equal proficiency or professional-level mastery in every tool.
+
+### Development & AI Tools
+
+I explore development assistants, model-access services, and local AI tools to understand how they can support practical software workflows.
+
+My current areas of interest include:
+
+* AI-assisted development
+* Language-model API integration
+* Local language models and Ollama
+* Workflow automation with n8n
+* Tool integration and the Model Context Protocol (MCP)
+
+These are learning and experimentation areas unless a specific repository demonstrates a working implementation.
+
+---
+
+## Current Focus
+
+### Software Development
+
+Strengthening programming fundamentals, application structure, API design, and maintainable code.
+
+### Workflow Automation
+
+Learning to connect services into useful, repeatable workflows and exploring practical automation opportunities.
+
+### AI-Powered Applications
+
+Understanding model APIs, application integration, and the components required to build useful AI-enabled tools.
+
+### Engineering Foundations
+
+Improving debugging, testing, documentation, security awareness, and project organization.
+
+---
+
+## My Direction
+
+**Learn → Build → Test → Automate → Improve**
+
+My short-term goal is to develop useful solutions for freelance work and build a credible portfolio through practical projects.
+
+My long-term goal is to grow into AI engineering, combining software development, automation, and intelligent application design.
+
+I intend to document progress through working implementations, clearer project READMEs, and verifiable technical results.
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirreza91-13\&show_icons=true\&hide_border=true\&bg_color=101713\&title_color=4DCE8A\&text_color=E5EEE8\&icon_color=D5A15B)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13\&layout=compact\&hide_border=true\&bg_color=101713\&title_color=4DCE8A\&text_color=E5EEE8\&langs_count=8)
+
+*These cards depend on an external service. Language statistics reflect detected repository code, not individual proficiency.*
+
+---
+
+## Let's Connect
+
+I’m interested in practical software projects, workflow automation, and opportunities to learn through building useful solutions.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/amirreza-mirhaj-490250435/)
+
+[Contact by Email](mailto:amirreza.91mirhaj@gmail.com)
+
+---
+
+**Build with purpose. Learn through practice. Improve with every project.**
