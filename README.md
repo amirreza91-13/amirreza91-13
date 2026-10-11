@@ -3,6 +3,9 @@
 ### Teen Freelancer · Automation Builder · Aspiring AI Engineer
 
 **Software Development · AI Workflows · LLM Integration**
+<p align="center">
+  <img src="./banner.png" alt="Amirreza Mirhaj — AI & Automation" width="100%" />
+</p>
 
 I’m a teen freelancer interested in building practical software, automating repetitive tasks, and exploring how AI models and developer tools can work together.
 
