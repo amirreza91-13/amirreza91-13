@@ -1,141 +1,175 @@
-![Amirreza Mirhaj — Software Development, Automation & AI](banner.png)
+# Amirreza Mirhaj
 
-<div align="center">
+### Teen Freelancer · Automation Builder · Aspiring AI Engineer
 
-# AMIRREZA MIRHAJ
+**Software Development · AI Workflows · LLM Integration**
 
-### Freelancer · Software Developer · Automation Builder
+I’m a teen freelancer interested in building practical software, automating repetitive tasks, and exploring how AI models and developer tools can work together.
 
-**Building practical software. Automating workflows. Working toward AI engineering.**
+My current focus is on Python, workflow automation, API integration, AI-assisted development, and building a strong foundation for my long-term goal of becoming an AI Engineer.
 
-[GitHub](https://github.com/amirreza91-13) · [LinkedIn](https://www.linkedin.com/in/amirreza-mirhaj-490250435/) · [Email](mailto:amirreza.91mirhaj@gmail.com)
-
-</div>
+I believe in learning by building, documenting what I learn, and turning ideas into practical projects.
 
 ---
 
 ## About Me
 
-I'm a freelancer building practical software projects while developing my skills in workflow automation and AI-powered applications.
+* **Current role:** Freelance developer and automation builder.
+* **Main interests:** Software development, AI workflows, APIs, and developer tooling.
+* **Practical experience:** Building workflow automations, including form-to-Google-Sheets integrations with n8n.
+* **AI exploration:** Experimenting with language models, model APIs, and tools for AI-assisted development.
+* **Long-term goal:** Machine Learning and AI Engineering.
 
-My approach is hands-on: learn the fundamentals, build real projects, test assumptions, and improve through iteration.
+I’m continuously developing my skills through hands-on projects, structured learning, and technical experimentation.
 
-My current focus is software development, API integration, and automation. My long-term goal is to become an AI engineer capable of designing and building useful, reliable intelligent systems.
+## Workflow Automation
 
-## What I'm Working Toward
+### n8n · Practical Workflow Design
 
-- **Software Development** — Building and improving practical applications.
-- **Workflow Automation** — Exploring ways to reduce repetitive work and connect useful tools.
-- **AI-Powered Applications** — Learning how to integrate language models and APIs into software.
-- **Engineering Foundations** — Improving programming, debugging, testing, and maintainability.
+I work with n8n to connect services and build practical automations that reduce repetitive manual work.
 
-## Selected Projects
+My hands-on experience includes:
 
-### Personal Planner
+* Building forms connected to Google Sheets.
+* Connecting workflow steps and external services.
+* Exploring API integrations and workflow logic.
+* Developing my understanding of more advanced automation patterns.
 
-A personal planning application combining a React and TypeScript frontend with a Python and Django backend.
+**Current direction:** Expanding toward AI-powered workflows, more sophisticated integrations, and agent-based systems.
 
-**Technologies:** React · TypeScript · Vite · Django · SQLite
+My focus is not just on connecting tools, but on understanding how to design workflows that solve real problems.
 
-[View repository](https://github.com/amirreza91-13/planner)
+## AI & LLM Ecosystem
 
-*Status: In development.*
+I explore language models and AI development tools to understand their capabilities, API requirements, and practical applications.
 
-### DeepSeek API Kit
+### Model APIs & Integration
 
-An experimental project exploring API integration, FastAPI, JSON communication, and AI application workflows.
+* Experimenting with NVIDIA-hosted AI models and model APIs.
+* Exploring different models and providers through OpenRouter.
+* Working with API configuration, endpoints, and compatibility.
+* Investigating how different model interfaces can connect with developer tools.
 
-**Technologies:** Python · FastAPI · REST APIs · JSON
+### Jan AI
 
-[View repository](https://github.com/amirreza91-13/deepseek-api-kit)
+I have explored Jan AI in the context of model access and API compatibility.
 
-*Status: Experimental. Compatibility and security require further validation.*
+Jan provides API interfaces compatible with established formats, including OpenAI and Anthropic-compatible endpoints. Its exact compatibility depends on the endpoint, model, and integration being used.
 
-### Local Coding Assistant
+The broader goal of this exploration is to understand how to connect different models to AI development tools without assuming that every provider or API is interchangeable.
 
-An experimental coding assistant exploring local language models and a Streamlit-based interface.
+### Prompt Design & Context Optimization
 
-**Technologies:** Python · Ollama · Streamlit
+I’m interested in improving how instructions, context, and model interactions are structured to produce more useful and consistent results.
 
-[View repository](https://github.com/amirreza91-13/Local-Coding-Assistant)
+This includes experimentation with prompt design, context management, and AI-assisted development workflows.
 
-*Status: Experimental.*
+## Technical Toolkit
 
-### Mirhaj Real Estate
+The following represents my current toolkit and areas of practical exploration—not a claim of expert-level proficiency in every technology.
 
-A web application project focused on real-estate workflows and web application functionality.
+### Languages & Development
 
-**Technologies:** JavaScript · Node.js · Express · Socket.IO · sql.js
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Python, JavaScript, TypeScript, HTML, and CSS" />
+</p>
 
-[View repository](https://github.com/amirreza91-13/mirhaj-realestate)
+### Web & Backend Technologies
 
-*Status: In development. Production readiness and security require verification.*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,django,fastapi,nodejs,express,sqlite" alt="React, Vite, Django, FastAPI, Node.js, Express, and SQLite" />
+</p>
 
-## Technologies & Tools
+### Developer Tools & Platforms
 
-The technologies below are associated with my projects and development environment. Their inclusion does not imply equal proficiency in every technology.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode" alt="Git, GitHub, PowerShell, and Visual Studio Code" />
+</p>
 
-**Languages and Frontend**
+### Automation & AI
 
-- Python
-- JavaScript
-- TypeScript
-- React
-- HTML and CSS
+<p align="left">
+  <a href="https://n8n.io/">
+    <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n workflow automation" />
+  </a>
+  <a href="https://openrouter.ai/">
+    <img src="https://img.shields.io/badge/OpenRouter-LLM%20APIs-5B6EE1?style=flat-square" alt="OpenRouter" />
+  </a>
+  <a href="https://jan.ai/">
+    <img src="https://img.shields.io/badge/Jan%20AI-Model%20Integration-3A8F78?style=flat-square" alt="Jan AI" />
+  </a>
+  <a href="https://build.nvidia.com/">
+    <img src="https://img.shields.io/badge/NVIDIA-AI%20Models-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA AI models" />
+  </a>
+</p>
 
-**Backend and Data**
+Technology icons indicate tools and technologies in my learning and development environment. They should not be interpreted as evidence of advanced mastery.
 
-- Django
-- FastAPI
-- Node.js and Express
-- REST APIs and JSON
-- SQLite and sql.js
+## AI-Assisted Development & Agent Tooling
 
-**Development Workflow**
+I explore tools that support coding, model interaction, and agent-based workflows.
 
-- Git and GitHub
-- PowerShell
-- Vite
+### Tools I Have Used or Worked With
 
-## AI & Automation Lab
+* **Claude Code** — AI-assisted coding and development workflows.
+* **OpenCode** — exploring and using an open-source AI coding environment.
+* **Jan AI** — model access and API compatibility experimentation.
+* **OpenRouter** — experimenting with model providers and API access.
+* **n8n** — practical workflow automation.
 
-I'm exploring tools and techniques for AI-assisted development, workflow automation, and local AI experimentation.
+### Tools Under Exploration
 
-- **Workflow automation:** n8n
-- **AI-assisted development:** Claude Code and Codex
-- **Model access:** OpenRouter and NVIDIA's AI ecosystem
-- **Local AI experimentation:** Ollama and LM Studio
-- **Agent systems:** Hermes Agent and OpenClaw
-- **Integration concepts:** APIs, tools, and Model Context Protocol (MCP)
+* **Codex** — exploring AI-assisted software development.
+* **Hermes Agent** — investigating agent workflows and capabilities.
+* **OpenClaw** — exploring agent-based tooling and integrations.
+* **Agent Router concepts** — investigating how model and agent routing can be designed.
 
-These are areas of learning and experimentation, not claims that every tool is integrated into a finished product or deployed in production.
+My experience varies by tool. I distinguish between tools I have used directly and technologies I am still evaluating or learning.
+
+## Current Focus
+
+My current learning and development priorities include:
+
+* Improving Python and software development fundamentals.
+* Building more reliable API integrations.
+* Advancing my practical n8n automation skills.
+* Exploring AI-powered workflows and agent architectures.
+* Improving Git, GitHub, documentation, and project organization.
+* Building a stronger foundation in Machine Learning.
+
+## Learning Roadmap
+
+My long-term direction is to progress from practical software development and automation toward AI Engineering.
+
+**Software Development → API Integration → Workflow Automation → AI Agents → Machine Learning → AI Engineering**
+
+I approach this path incrementally, focusing on understanding the fundamentals and applying them through practical work.
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=101714&title_color=55D6A1&icon_color=55D6A1&text_color=D9E5DE" height="165" alt="GitHub activity statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&hide_border=true&bg_color=101714&title_color=55D6A1&text_color=D9E5DE" height="165" alt="Most used programming languages on GitHub" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=101713&title_color=4DCE8A&text_color=E5EEE8&icon_color=D5A15B)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&hide_border=true&bg_color=101713&title_color=4DCE8A&text_color=E5EEE8&langs_count=8)
-
-</div>
-
-*Statistics are provided by an external service. Language proportions reflect repository contents, not overall proficiency.*
-
-## My Engineering Approach
-
-`Learn → Build → Test → Document → Improve`
-
-I aim to turn consistent learning into useful software, reliable automation, and increasingly capable AI-powered applications.
+*GitHub statistics are generated by an external service and may not always be available. Language statistics reflect repository contents, not overall programming proficiency.*
 
 ## Connect
 
-- **GitHub:** [amirreza91-13](https://github.com/amirreza91-13)
-- **LinkedIn:** [Amirreza Mirhaj](https://www.linkedin.com/in/amirreza-mirhaj-490250435/)
-- **Email:** [amirreza.91mirhaj@gmail.com](mailto:amirreza.91mirhaj@gmail.com)
+<p align="left">
+  <a href="https://github.com/amirreza91-13">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="mailto:amirreza.91mirhaj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email contact" />
+  </a>
+</p>
 
-<div align="center">
+---
 
-*Build with purpose. Learn through practice. Improve with every project.*
-
-</div>
+<p align="center">
+  <sub>Building, learning, experimenting, and improving — one project at a time.</sub>
+</p>
