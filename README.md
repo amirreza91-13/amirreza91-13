@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/amirreza91-13">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-0B6B45?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-087F8C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:amirreza.91mirhaj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-164E38?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -111,13 +111,13 @@ This section highlights technologies I use, have worked with, or am actively exp
 
 <p align="left">
   <a href="https://n8n.io/">
-    <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+    <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-0B6B45?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
   </a>
   <a href="https://openrouter.ai/">
-    <img src="https://img.shields.io/badge/OpenRouter-LLM%20APIs-5B6EE1?style=flat-square" alt="OpenRouter" />
+    <img src="https://img.shields.io/badge/OpenRouter-LLM%20APIs-087F8C?style=flat-square" alt="OpenRouter" />
   </a>
   <a href="https://jan.ai/">
-    <img src="https://img.shields.io/badge/Jan%20AI-Model%20Integration-3A8F78?style=flat-square" alt="Jan AI" />
+    <img src="https://img.shields.io/badge/Jan%20AI-Model%20Integration-164E38?style=flat-square" alt="Jan AI" />
   </a>
   <a href="https://build.nvidia.com/">
     <img src="https://img.shields.io/badge/NVIDIA-AI%20Models-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA AI" />
@@ -181,8 +181,8 @@ I approach this path incrementally, prioritizing practical understanding over si
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=101714&title_color=55D6A1&icon_color=55D6A1&text_color=D9E5DE" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&hide_border=true&bg_color=101714&title_color=55D6A1&text_color=D9E5DE" height="165" alt="Most used programming languages on GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=0B0F0D&title_color=55D6A1&icon_color=42D9C8&text_color=D9E5DE" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&hide_border=true&bg_color=0B0F0D&title_color=55D6A1&text_color=D9E5DE" height="165" alt="Most used programming languages on GitHub" />
 </p>
 
 <p align="center">
@@ -193,13 +193,13 @@ I approach this path incrementally, prioritizing practical understanding over si
 
 <p align="left">
   <a href="https://github.com/amirreza91-13">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-0B6B45?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-087F8C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="mailto:amirreza.91mirhaj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email contact" />
+    <img src="https://img.shields.io/badge/Email-Contact-164E38?style=flat-square&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
 </p>
 
