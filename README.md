@@ -76,32 +76,47 @@ These are selected public projects, not a complete list of everything I'm learni
   </tr>
 </table>
 
-## Technical Toolkit
+## 🧰 Tech Stack
 
-<p>
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" height="36" alt="Python, JavaScript, TypeScript, HTML, CSS"/>
+<sub>Tools I use, build with, or actively explore — experience varies by technology.</sub>
+
+### 01 · Languages & Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" height="34" alt="Python, JavaScript, TypeScript, HTML5 and CSS3" />
 </p>
 
-<p>
-  <strong>Web & APIs</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,vite,django,fastapi,nodejs,express,sqlite&theme=dark" height="36" alt="React, Vite, Django, FastAPI, Node.js, Express, SQLite"/>
+### 02 · Development & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,django,sqlite&theme=dark" height="34" alt="Git, GitHub, Visual Studio Code, Node.js, Django and SQLite" />
+  <img src="https://img.shields.io/badge/Streamlit-202A24?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="22" alt="Streamlit" />
 </p>
 
-<p>
-  <strong>Developer Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,powershell,vscode&theme=dark" height="36" alt="Git, GitHub, PowerShell, Visual Studio Code"/>
+### 03 · AI Coding & Agents
+
+<p align="left">
+  <a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-202A24?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" /></a>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-202A24?style=flat-square&logo=openai&logoColor=E5F2E8" alt="OpenAI Codex" /></a>
+  <a href="https://github.com/NousResearch/hermes-agent"><img src="https://img.shields.io/badge/Hermes_Agent-202A24?style=flat-square&logoColor=9FE3B2" alt="Hermes Agent" /></a>
 </p>
 
-| Area | Current work |
-|---|---|
-| Application development | Frontend/backend structure, debugging, iterative improvements |
-| API integration | REST endpoints, request formats, JSON data handling |
-| Data & ML foundations | pandas, Jupyter, scikit-learn fundamentals, regression and evaluation |
-| Workflow automation | n8n service connections, structured data flows, repeatable processes |
-| AI tooling | Model-provider APIs, local-model experiments, prompt/context organization, tool integration |
+### 04 · AI, Models & Automation
 
-My experience differs by technology. Some items represent hands-on project work; others are active learning areas rather than claims of advanced proficiency.
+<p align="left">
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-202A24?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n" /></a>
+  <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-202A24?style=flat-square&logo=ollama&logoColor=E5F2E8" alt="Ollama" /></a>
+  <a href="https://openrouter.ai/"><img src="https://img.shields.io/badge/OpenRouter-202A24?style=flat-square&logoColor=9FE3B2" alt="OpenRouter" /></a>
+  <a href="https://lmstudio.ai/"><img src="https://img.shields.io/badge/LM_Studio-202A24?style=flat-square&logoColor=E5F2E8" alt="LM Studio" /></a>
+  <a href="https://www.nvidia.com/"><img src="https://img.shields.io/badge/NVIDIA-202A24?style=flat-square&logo=nvidia&logoColor=76B900" alt="NVIDIA tools and software ecosystem" /></a>
+  <a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-202A24?style=flat-square&logoColor=E5F2E8" alt="OpenCode" /></a>
+</p>
+
+### How I describe my experience
+
+- **Hands-on project work:** technologies used in my public repositories and workflows.
+- **Active learning:** tools and concepts I am currently exploring or improving.
+- **No inflated claims:** listing a tool does not imply expert-level proficiency.
 
 ## Workflow Automation & AI
 
