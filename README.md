@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/amirreza91-13">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0B1F3A?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-214E34?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-087F8C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2F855A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   <a href="mailto:amirreza.91mirhaj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email Contact" />
+    <img src="https://img.shields.io/badge/Email-Contact-52796F?style=flat-square&logo=gmail&logoColor=white" alt="Email Contact" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ A Python project exploring model API integration through a proxy service and a s
 An experimental coding assistant built around locally hosted language models.
 
 - **Technologies:** Python, Ollama, Streamlit.
-- **Focus:** Local model integration and coding-assistant workflows. The interface still needs validation and fixes.
+- **Focus:** Local model integration and coding-assistant workflows. End-to-end runtime validation remains in progress.
 
 ### [Mirhaj Real Estate](https://github.com/amirreza91-13/mirhaj-realestate)
 
@@ -150,8 +150,8 @@ My experience varies by tool and project. I distinguish hands-on implementation 
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=55D6D1&icon_color=42D9C8&text_color=D9E5F2" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0B1F3A&title_color=55D6D1&text_color=D9E5F2" height="165" alt="Most used languages across public GitHub repositories" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=102A1D&title_color=9FE3B2&icon_color=65C18C&text_color=E5F2E8" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=102A1D&title_color=9FE3B2&text_color=E5F2E8" height="165" alt="Most used languages across public GitHub repositories" />
 </p>
 
 <p align="center">
