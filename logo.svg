@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Amirreza Mirhaj mark</title>
+  <desc id="desc">A compact forest-green monogram combining an abstract A shape with connected nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="12" y1="8" x2="116" y2="120" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#173D2B"/><stop offset="1" stop-color="#0C2118"/></linearGradient>
+    <linearGradient id="mint" x1="32" y1="22" x2="92" y2="103" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#B7F7CF"/><stop offset="1" stop-color="#55C98B"/></linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="30" fill="url(#bg)"/>
+  <rect x="5" y="5" width="118" height="118" rx="29" fill="none" stroke="#6DCB95" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M29 91 54 35c2-5 8-5 10 0l25 56" fill="none" stroke="url(#mint)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
+  <path d="M42 69h35" fill="none" stroke="#E8FFF0" stroke-linecap="round" stroke-width="7"/>
+  <path d="M77 69 96 51" fill="none" stroke="#77DDA3" stroke-linecap="round" stroke-width="4"/>
+  <circle cx="98" cy="49" r="7" fill="#B7F7CF"/><circle cx="29" cy="91" r="5" fill="#B7F7CF"/><circle cx="89" cy="91" r="5" fill="#B7F7CF"/>
+</svg>
