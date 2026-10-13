@@ -90,7 +90,7 @@ These are selected public projects, not a complete list of everything I'm learni
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,django,sqlite&theme=dark" height="34" alt="Git, GitHub, Visual Studio Code, Node.js, Django and SQLite" />
-  <img src="https://img.shields.io/badge/Streamlit-202A24?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="22" alt="Streamlit" />
+  
 </p>
 
 ### 03 · AI Coding & Agents
@@ -110,6 +110,7 @@ These are selected public projects, not a complete list of everything I'm learni
   <a href="https://lmstudio.ai/"><img src="https://img.shields.io/badge/LM_Studio-202A24?style=flat-square&logoColor=E5F2E8" alt="LM Studio" /></a>
   <a href="https://www.nvidia.com/"><img src="https://img.shields.io/badge/NVIDIA-202A24?style=flat-square&logo=nvidia&logoColor=76B900" alt="NVIDIA tools and software ecosystem" /></a>
   <a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-202A24?style=flat-square&logoColor=E5F2E8" alt="OpenCode" /></a>
+<img src="https://img.shields.io/badge/Streamlit-202A24?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="22" alt="Streamlit" />
 </p>
 
 ### How I describe my experience
