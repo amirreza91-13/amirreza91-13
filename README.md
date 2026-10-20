@@ -157,7 +157,8 @@ Current priorities:
   <a href="mailto:amirreza.91mirhaj@gmail.com">Email</a>
   &nbsp; · &nbsp;
   <a href="https://github.com/amirreza91-13">GitHub</a>
-<a href="https://x.com/amirrezaPG">X</a>
+  &nbsp; · &nbsp;
+  <a href="https://x.com/amirrezaPG">X</a>
 </p>
 
 ---
