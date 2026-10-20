@@ -175,13 +175,7 @@ Current priorities:
 
 
 ---
-## GitHub Statistics
 
-<p align="center">
-  <img src="https://vercel.app" alt="Amirreza's GitHub Stats" height="180" />
-  &nbsp;
-  <img src="https://vercel.app" alt="Top Languages" height="180" />
-</p>
 
 
 
