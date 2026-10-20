@@ -152,15 +152,37 @@ Current priorities:
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:amirreza.91mirhaj@gmail.com">Email</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/amirreza91-13">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://x.com/amirrezaPG">X</a>
+  <a href="https://linkedin.com">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:amirreza.91mirhaj@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://x.com">
+    <img src="https://shields.io" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://t.me">
+    <img src="https://shields.io" alt="Telegram" />
+  </a>
 </p>
 
+
 ---
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://vercel.app" alt="Amirreza's GitHub Stats" height="180" />
+  &nbsp;
+  <img src="https://vercel.app" alt="Top Languages" height="180" />
+</p>
+
+
 
 <p align="center"><sub>Build deliberately. Learn continuously. Improve one iteration at a time.</sub></p>
