@@ -149,32 +149,27 @@ Current priorities:
 
 <p align="center"><sub>Cards depend on an external service and may be delayed or unavailable. Language breakdowns describe public repository contents—not overall skill level.</sub></p>
 
+
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://github.com/amirreza91-13">
+    <img src="https://img.shields.io/badge/GitHub-Profile-214E34?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  &nbsp;
+  <a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-2F855A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://x.com/amirrezaPG">
+    <img src="https://img.shields.io/badge/X-Follow-214E34?style=flat-square&logo=x&logoColor=white" alt="X Profile" />
+  </a>
+  <a href="https://t.me/amirrezamirhaj">
+    <img src="https://img.shields.io/badge/Telegram-Contact-52796F?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Contact" />
+  </a>
   <a href="mailto:amirreza.91mirhaj@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://x.com">
-    <img src="https://shields.io" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://t.me">
-    <img src="https://shields.io" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Email-Contact-52796F?style=flat-square&logo=gmail&logoColor=white" alt="Email Contact" />
   </a>
 </p>
 
-
----
 
 
 
