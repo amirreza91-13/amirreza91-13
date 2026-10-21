@@ -144,7 +144,7 @@ Current priorities:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=102A1D&title_color=9FE3B2&icon_color=65C18C&text_color=E5F2E8&ring_color=65C18C" height="150" alt="GitHub profile statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=102A1D&title_color=9FE3B2&text_color=E5F2E8" height="150" alt="Most-used languages in public repositories"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&langs_count=8&size_weight=0.3&count_weight=0.7&hide_border=true&bg_color=102A1D&title_color=9FE3B2&text_color=E5F2E8&cache_seconds=1800" height="150" alt="Most-used languages in public repositories"/>
 </p>
 
 <p align="center"><sub>Cards depend on an external service and may be delayed or unavailable. Language breakdowns describe public repository contents—not overall skill level.</sub></p>
