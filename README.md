@@ -137,10 +137,7 @@ My current priorities are stronger software fundamentals, reliable integrations,
 
 ### CONNECT / COLLABORATE
 
-<a href="mailto:amirreza.91mirhaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-amirreza.91mirhaj%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Amirreza" /></a>
-<a href="https://t.me/amirrezamirhaj"><img src="https://img.shields.io/badge/Telegram-%40amirrezamirhaj-229ED9?style=flat-square&logo=telegram&logoColor=white" alt="Telegram profile" /></a>
-<a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="https://x.com/amirrezaPG"><img src="https://img.shields.io/badge/X-%40amirrezaPG-111111?style=flat-square&logo=x&logoColor=white" alt="X profile" /></a>
+<sub>Reach out through the contact links above. I value thoughtful projects, useful collaboration, and learning through building.</sub>
 
 <br/><br/>
 <sub>ENGINEER WITH CURIOSITY · BUILD WITH INTENT · IMPROVE CONTINUOUSLY</sub>
