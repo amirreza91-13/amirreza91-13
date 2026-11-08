@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="520" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
+<title id="title">Amirreza Mirhaj — Electric Forest</title>
+<desc id="desc">A dark forest-green digital scene with a luminous three-dimensional energy core, electric circuit paths, lightning accents, and a developer identity.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071711"/><stop offset=".48" stop-color="#0b211b"/><stop offset="1" stop-color="#101a2b"/></linearGradient>
+ <radialGradient id="mist"><stop stop-color="#1d8c62" stop-opacity=".42"/><stop offset="1" stop-color="#071711" stop-opacity="0"/></radialGradient>
+ <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e0fff0"/><stop offset=".35" stop-color="#7affbd"/><stop offset=".72" stop-color="#32e2c1"/><stop offset="1" stop-color="#50a9ff"/></linearGradient>
+ <linearGradient id="text" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f2fff8"/><stop offset=".6" stop-color="#a8f7cf"/><stop offset="1" stop-color="#78dfff"/></linearGradient>
+ <radialGradient id="core"><stop stop-color="#d8fff0" stop-opacity=".95"/><stop offset=".18" stop-color="#63f5b0" stop-opacity=".85"/><stop offset=".48" stop-color="#1d9e76" stop-opacity=".32"/><stop offset="1" stop-color="#0a1b18" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#75f6ba" stroke-opacity=".08" stroke-width="1"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="30"/></filter>
+</defs>
+<rect width="1440" height="520" rx="30" fill="url(#bg)"/>
+<rect width="1440" height="520" rx="30" fill="url(#grid)"/>
+<ellipse cx="1120" cy="270" rx="410" ry="340" fill="url(#mist)"/>
+<ellipse cx="1120" cy="270" rx="185" ry="185" fill="url(#core)" filter="url(#soft)"/>
+<!-- perspective energy rings -->
+<g transform="translate(1115 258)" fill="none" stroke-linecap="round">
+ <ellipse rx="208" ry="78" transform="rotate(-28)" stroke="#51f5b3" stroke-opacity=".22" stroke-width="2"/>
+ <ellipse rx="170" ry="62" transform="rotate(42)" stroke="#54dfff" stroke-opacity=".28" stroke-width="2"/>
+ <ellipse rx="128" ry="47" transform="rotate(-65)" stroke="#a3ffd3" stroke-opacity=".34" stroke-width="2"/>
+ <path d="M-180 0Q-85 -165 52 -140Q185 -112 184 15Q174 135 30 158Q-92 171 -180 0Z" stroke="url(#mint)" stroke-opacity=".65" stroke-width="3" filter="url(#glow)"/>
+</g>
+<!-- geometric energy core -->
+<g transform="translate(1115 258)" filter="url(#glow)">
+ <path d="M0 -118 102 -59 102 59 0 118 -102 59 -102 -59Z" fill="#0e3b2d" fill-opacity=".52" stroke="url(#mint)" stroke-width="3"/>
+ <path d="M0 -118 0 0 102 59M0 0-102 59M0 0 102 -59M0 0-102 -59" fill="none" stroke="#8dffd0" stroke-opacity=".6" stroke-width="2"/>
+ <circle r="58" fill="url(#core)"/>
+ <path d="m-28 42 31-74 2 48 31-58-19 84-3-42Z" fill="url(#mint)" stroke="#e3fff2" stroke-width="2" stroke-linejoin="round"/>
+</g>
+<!-- electric traces -->
+<g fill="none" stroke="url(#mint)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".8" filter="url(#glow)">
+ <path d="M730 92h110l38 38h70"/>
+ <path d="M780 420h95l38-38h88"/>
+ <path d="M1240 70h65l36 36h56"/>
+ <path d="M1255 450h65l38-38h39"/>
+ <path d="M940 42h30l20 20h44"/>
+</g>
+<g fill="#a8ffda"><circle cx="948" cy="130" r="5"/><circle cx="1005" cy="382" r="5"/><circle cx="1338" cy="106" r="5"/><circle cx="1358" cy="412" r="5"/><circle cx="1034" cy="62" r="4"/></g>
+<!-- lightning details -->
+<g fill="none" stroke="#b5ffdf" stroke-width="4" stroke-linejoin="round" opacity=".8" filter="url(#glow)">
+ <path d="m1370 160-30 55h28l-40 72 12-57h-27Z"/>
+ <path d="m870 286-24 40h22l-32 54 9-43h-22Z" opacity=".55"/>
+</g>
+<!-- identity -->
+<g font-family="Arial, Helvetica, sans-serif">
+ <text x="92" y="158" fill="#78f6b6" font-size="18" font-weight="700" letter-spacing="7">INDEPENDENT BUILDER  /  OPEN SOURCE</text>
+ <text x="88" y="246" fill="url(#text)" font-size="76" font-weight="800" letter-spacing="-2">AMIRREZA MIRHAJ</text>
+ <path d="M94 275H620" stroke="url(#mint)" stroke-width="3" opacity=".8"/>
+ <text x="94" y="326" fill="#e4fff1" font-size="27" font-weight="600">Software  ·  Automation  ·  Applied AI</text>
+ <text x="96" y="375" fill="#a8c9bc" font-size="20" letter-spacing="2">BUILD / TEST / AUTOMATE / ITERATE</text>
+ <g transform="translate(96 424)" font-size="15" font-weight="700" letter-spacing="2">
+  <rect width="132" height="34" rx="17" fill="#123c2c" stroke="#5df5ad" stroke-opacity=".7"/><text x="66" y="22" text-anchor="middle" fill="#cffff0">DEVELOPER</text>
+  <rect x="146" width="144" height="34" rx="17" fill="#123c2c" stroke="#5df5ad" stroke-opacity=".7"/><text x="218" y="22" text-anchor="middle" fill="#cffff0">AUTOMATION</text>
+  <rect x="304" width="102" height="34" rx="17" fill="#123c2c" stroke="#5df5ad" stroke-opacity=".7"/><text x="355" y="22" text-anchor="middle" fill="#cffff0">AI</text>
+ </g>
+</g>
+<rect x="1" y="1" width="1438" height="518" rx="29" fill="none" stroke="#8affc7" stroke-opacity=".26" stroke-width="2"/>
+</svg>
