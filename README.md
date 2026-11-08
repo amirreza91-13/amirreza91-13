@@ -102,7 +102,7 @@ Technologies are grouped by where they fit in my current work. The icons are vis
 ### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" height="52" alt="Git, GitHub, Visual Studio Code, npm, and PowerShell" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" height="52" alt="Git, GitHub, Visual Studio Code, and npm" />
 </p>
 
 ### AI & Automation
