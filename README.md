@@ -98,7 +98,7 @@ Technologies are grouped by where they fit in my current work. The icons are vis
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" height="52" alt="Python, JavaScript, TypeScript, HTML5, and CSS3" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" height="52" alt="Python, JavaScript, TypeScript, HTML5, and CSS3" />
 </p>
 
 ### Frameworks, Runtime & Data
@@ -110,7 +110,7 @@ Technologies are grouped by where they fit in my current work. The icons are vis
 ### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,powershell&theme=dark" height="52" alt="Git, GitHub, Visual Studio Code, npm, and PowerShell" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" height="52" alt="Git, GitHub, Visual Studio Code, npm, and PowerShell" />
 </p>
 
 ### AI & Automation
@@ -153,11 +153,6 @@ My priorities are to strengthen Python and software engineering fundamentals, im
 ---
 
 <div align="center">
-
-### Let's connect
-
-<a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/amirrezaPG"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 <sub>Build with purpose. Document the process. Improve through iteration.</sub>
 
