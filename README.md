@@ -1,145 +1,164 @@
-<!-- Profile README | Forest-green visual identity -->
+<!-- Profile README: forest green / electric mint visual system -->
 
-<p align="center">
-  <img src="./logo.svg" width="58" height="58" alt="Amirreza Mirhaj monogram" />
+<div align="center">
+
+<img src="./logo.svg" width="76" height="76" alt="Amirreza Mirhaj monogram" />
+
+# Amirreza Mirhaj
+
+### Software Development · Workflow Automation · AI Engineering
+
+I build practical software, automate repetitive workflows, and explore how AI can make developer tools more useful.
+
+<p>
+  <a href="https://github.com/amirreza91-13">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-102A1D?style=for-the-badge&logo=github&logoColor=9FE3B2" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/amirrezaPG">
+    <img src="https://img.shields.io/badge/X-Updates-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
 
-<h1 align="center">Amirreza Mirhaj</h1>
+<img src="./banner.png" width="100%" alt="Amirreza Mirhaj — software development, automation, and AI" />
 
-<p align="center">
-  <strong>Software Development · Workflow Automation · AI Exploration</strong><br/>
-  Building practical software, integrating APIs, and turning ideas into useful tools.
-</p>
-
-<p align="center">
-  <a href="https://github.com/amirreza91-13"><img src="https://img.shields.io/badge/GitHub-Profile-214E34?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/></a>
-  <a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2F855A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/amirrezaPG"><img src="https://img.shields.io/badge/X-Follow-214E34?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:amirreza.91mirhaj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-52796F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Forest-green banner representing software development, automation, and AI" />
-</p>
+</div>
 
 ---
 
 ## About
 
-I'm an independent developer learning through building and documenting practical software. My work currently spans web applications, API integration, workflow automation, and experiments with AI tools and models.
+I'm an independent builder focused on learning by shipping real projects. My current work combines web development, API integration, workflow automation, and experiments with AI-powered tools.
 
-- **Current focus:** Software development, API integration, and workflow automation.
-- **Building:** Browser-based developer utilities and practical web applications.
-- **Automation:** n8n workflows and service integrations.
-- **Exploring:** Model APIs, local LLM tooling, and agent-based development.
-- **Long-term direction:** AI Engineering.
+- **Building:** browser utilities and practical web applications.
+- **Automating:** workflows and service integrations with n8n.
+- **Exploring:** model APIs, local LLM tools, and AI-assisted development.
+- **Developing toward:** AI Engineering, with software fundamentals as the foundation.
 
-I aim to describe projects by what the code currently supports—not by what I eventually want them to become.
+I distinguish between what a project currently does and what I plan to build next. Project status and limitations are documented in the repositories.
 
-## Featured Projects
+## Selected Projects
 
-A selection of projects that best represents what I'm currently building and learning.
+A short list of projects that show different parts of my work.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amirreza91-13/devflow-kit">DevFlow Kit</a></h3>
-      A privacy-first collection of browser-based utilities for everyday developer tasks. Built with vanilla JavaScript and Web APIs, with automated checks and tests.
-      <br/><br/>
-      <sub><strong>Stack</strong> · JavaScript · HTML · CSS · Web Workers · Node.js</sub>
+      <h3><a href="https://github.com/amirreza91-13/devflow-kit">01 · DevFlow Kit</a></h3>
+      <a href="https://github.com/amirreza91-13/devflow-kit">
+        <img src="https://img.shields.io/badge/OPEN%20SOURCE-DEV%20TOOLS-173D2B?style=for-the-badge&logo=javascript&logoColor=9FE3B2" alt="DevFlow Kit" />
+      </a>
+      <p>A privacy-first collection of 13 browser-based utilities for common developer tasks. Built with vanilla JavaScript, Web APIs, and automated tests.</p>
+      <sub><strong>Stack:</strong> JavaScript · HTML · CSS · Web Workers · Node.js</sub>
       <br/>
-      <sub><strong>Focus</strong> · Browser APIs, utility design, testing, privacy-conscious processing</sub>
+      <a href="https://github.com/amirreza91-13/devflow-kit/actions/workflows/validate.yml">CI workflow</a> ·
+      <a href="https://github.com/amirreza91-13/devflow-kit">Source code</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amirreza91-13/mirhaj-realestate">Mirhaj Real Estate</a></h3>
-      A real-estate web application project covering property workflows, server-side routes, authentication, and real-time features.
-      <br/><br/>
-      <sub><strong>Stack</strong> · Node.js · Express · JavaScript · Socket.IO · sql.js</sub>
+      <h3><a href="https://github.com/amirreza91-13/mirhaj-realestate">02 · Mirhaj Real Estate</a></h3>
+      <a href="https://github.com/amirreza91-13/mirhaj-realestate">
+        <img src="https://img.shields.io/badge/FULL--STACK-WEB%20APPLICATION-173D2B?style=for-the-badge&logo=nodedotjs&logoColor=9FE3B2" alt="Mirhaj Real Estate" />
+      </a>
+      <p>A real-estate application project with property workflows, an Express server, authentication routes, database integration, and real-time features.</p>
+      <sub><strong>Stack:</strong> Node.js · Express · JavaScript · Socket.IO · sql.js</sub>
       <br/>
-      <sub><strong>Focus</strong> · Full-stack structure, access control, and security hardening</sub>
+      <a href="https://github.com/amirreza91-13/mirhaj-realestate">Source code and security notes</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amirreza91-13/planner">Planner</a></h3>
-      A bilingual personal-planning application with task, habit, calendar, notes, and reporting workflows. Frontend/backend integration is still in progress.
-      <br/><br/>
-      <sub><strong>Stack</strong> · React · TypeScript · Vite · Python · Django · SQLite</sub>
+      <h3><a href="https://github.com/amirreza91-13/planner">03 · Planner</a></h3>
+      <a href="https://github.com/amirreza91-13/planner">
+        <img src="https://img.shields.io/badge/PRODUCT%20BUILD-PLANNING%20APP-173D2B?style=for-the-badge&logo=react&logoColor=9FE3B2" alt="Planner" />
+      </a>
+      <p>A bilingual Persian/English planning app with tasks, habits, calendar, notes, focus timer, and reports. Frontend/backend integration remains in progress.</p>
+      <sub><strong>Stack:</strong> React · TypeScript · Vite · Python · Django · SQLite</sub>
       <br/>
-      <sub><strong>Focus</strong> · Product UX, frontend architecture, API integration</sub>
+      <a href="https://github.com/amirreza91-13/planner">Source code and feature status</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/amirreza91-13/deepseek-api-kit">DeepSeek API Kit</a></h3>
-      A Python project exploring model API integration through a proxy service and a separate chat application.
-      <br/><br/>
-      <sub><strong>Stack</strong> · Python · FastAPI · REST APIs</sub>
+      <h3><a href="https://github.com/amirreza91-13/Local-Coding-Assistant">04 · Local Coding Assistant</a></h3>
+      <a href="https://github.com/amirreza91-13/Local-Coding-Assistant">
+        <img src="https://img.shields.io/badge/AI%20EXPERIMENT-LOCAL%20LLMs-173D2B?style=for-the-badge&logo=ollama&logoColor=9FE3B2" alt="Local Coding Assistant" />
+      </a>
+      <p>An experimental Python coding assistant with terminal and Streamlit interfaces, connecting to locally hosted models through Ollama.</p>
+      <sub><strong>Stack:</strong> Python · Streamlit · Ollama</sub>
       <br/>
-      <sub><strong>Focus</strong> · API compatibility, service integration, chat workflows</sub>
+      <a href="https://github.com/amirreza91-13/Local-Coding-Assistant">Source code and limitations</a>
     </td>
   </tr>
 </table>
 
-## Technologies & Tools
+## Technology Stack
 
-Tools I use, build with, or actively explore. Experience varies by technology.
+Technologies are grouped by where they fit in my current work. The icons are visual references, not claims of equal proficiency.
 
-### Languages & Web
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css&theme=dark" height="36" alt="Python, JavaScript, TypeScript, HTML5, and CSS3" />
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css&theme=dark" height="52" alt="Python, JavaScript, TypeScript, HTML5, and CSS3" />
 </p>
 
-### Development & Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,django,sqlite,react,vite&theme=dark" height="36" alt="Git, GitHub, VS Code, Node.js, Django, SQLite, React, and Vite" />
+### Frameworks, Runtime & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,django,fastapi,sqlite&theme=dark" height="52" alt="React, Vite, Node.js, Express, Django, FastAPI, and SQLite" />
 </p>
 
-### AI, Automation & Developer Tools
-<p align="left">
-  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-202A24?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n"/></a>
-  <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-202A24?style=flat-square&logo=ollama&logoColor=E5F2E8" alt="Ollama"/></a>
-  <a href="https://openrouter.ai/"><img src="https://img.shields.io/badge/OpenRouter-202A24?style=flat-square" alt="OpenRouter"/></a>
-  <a href="https://lmstudio.ai/"><img src="https://img.shields.io/badge/LM_Studio-202A24?style=flat-square" alt="LM Studio"/></a>
-  <a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-202A24?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code"/></a>
-  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/Codex-202A24?style=flat-square&logo=openai&logoColor=E5F2E8" alt="OpenAI Codex"/></a>
-  <a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-202A24?style=flat-square" alt="OpenCode"/></a>
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,powershell&theme=dark" height="52" alt="Git, GitHub, Visual Studio Code, npm, and PowerShell" />
 </p>
 
-## Workflow Automation & AI
+### AI & Automation
 
-I use n8n to explore service integrations and reduce repetitive manual work. Current hands-on work includes form-to-Google-Sheets workflows and experimenting with API-based data flows.
-
-I'm also exploring model APIs, OpenRouter, local model tools such as Ollama and LM Studio, and AI-assisted development. These are evolving areas of learning; I don't present every experiment as a finished system.
-
-## Learning Roadmap
-
-<p align="center">
-  <strong>Software Fundamentals</strong> → <strong>API Integration</strong> → <strong>Workflow Automation</strong> → <strong>AI Applications</strong> → <strong>Agents & ML</strong> → <strong>AI Engineering</strong>
+<p>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-Automation-202A24?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" /></a>
+  <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-Local%20models-202A24?style=for-the-badge&logo=ollama&logoColor=FFFFFF" alt="Ollama" /></a>
+  <a href="https://openrouter.ai/"><img src="https://img.shields.io/badge/OpenRouter-Model%20APIs-202A24?style=for-the-badge&logo=openaigym&logoColor=9FE3B2" alt="OpenRouter" /></a>
+  <a href="https://lmstudio.ai/"><img src="https://img.shields.io/badge/LM%20Studio-Local%20AI-202A24?style=for-the-badge&logo=lmstudio&logoColor=FFFFFF" alt="LM Studio" /></a>
+  <a href="https://www.anthropic.com/claude-code"><img src="https://img.shields.io/badge/Claude%20Code-AI%20coding-202A24?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude Code" /></a>
+  <a href="https://openai.com/codex/"><img src="https://img.shields.io/badge/OpenAI%20Codex-AI%20coding-202A24?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="OpenAI Codex" /></a>
+  <a href="https://opencode.ai/"><img src="https://img.shields.io/badge/OpenCode-Dev%20agent-202A24?style=for-the-badge&logo=gnometerminal&logoColor=9FE3B2" alt="OpenCode" /></a>
 </p>
 
-Current priorities:
+## Current Direction
 
-1. Strengthen Python and software engineering fundamentals.
-2. Improve API integration, debugging, and reliability.
-3. Build robust, maintainable automation workflows.
-4. Develop practical AI-powered applications.
-5. Explore agent architectures and model-tool integration.
-6. Build a stronger machine-learning foundation.
+```text
+Software Engineering
+        ↓
+APIs & Backend Fundamentals
+        ↓
+Workflow Automation
+        ↓
+Practical AI Applications
+        ↓
+Agents, Machine Learning & AI Engineering
+```
+
+My priorities are to strengthen Python and software engineering fundamentals, improve testing and debugging, build reliable integrations, and turn AI experiments into useful applications.
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=102A1D&title_color=9FE3B2&icon_color=65C18C&text_color=E5F2E8&ring_color=65C18C" height="150" alt="GitHub profile statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&langs_count=8&size_weight=0.3&count_weight=0.7&hide_border=true&bg_color=102A1D&title_color=9FE3B2&text_color=E5F2E8&cache_seconds=1800" height="150" alt="Most-used languages in public repositories"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirreza91-13&show_icons=true&hide_border=true&bg_color=102A1D&title_color=9FE3B2&icon_color=65C18C&text_color=E5F2E8&ring_color=65C18C" height="165" alt="GitHub profile statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirreza91-13&layout=compact&langs_count=8&hide_border=true&bg_color=102A1D&title_color=9FE3B2&text_color=E5F2E8&cache_seconds=1800" height="165" alt="Most used languages in public repositories" />
+</div>
 
-<p align="center"><sub>Statistics depend on an external service and may be delayed. Language breakdowns describe public repository contents—not overall skill level.</sub></p>
+<p align="center"><sub>Stats are provided by an external service and may be delayed. Repository language percentages do not measure proficiency.</sub></p>
 
-## Connect
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2F855A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/amirrezaPG"><img src="https://img.shields.io/badge/X-Follow-214E34?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="mailto:amirreza.91mirhaj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-52796F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<div align="center">
 
-<p align="center"><sub>Build deliberately. Learn continuously. Improve one iteration at a time.</sub></p>
+### Let's connect
+
+<a href="https://www.linkedin.com/in/amirreza-mirhaj-490250435/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/amirrezaPG"><img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+
+<sub>Build with purpose. Document the process. Improve through iteration.</sub>
+
+</div>
