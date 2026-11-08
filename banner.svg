@@ -42,4 +42,22 @@
  </g>
 </g>
 <rect x="1" y="1" width="1598" height="558" rx="29" fill="none" stroke="#E6F8FF" stroke-opacity=".6" stroke-width="2"/>
+
+<!-- Animated snowfall overlay; static particles remain as a fallback. -->
+<g fill="#F5FCFF" stroke="#DDF7FF" stroke-width="1" opacity=".72">
+ <circle cx="72" cy="-12" r="3"><animate attributeName="cy" values="-12;570" dur="17s" repeatCount="indefinite"/></circle>
+ <circle cx="245" cy="-30" r="2"><animate attributeName="cy" values="-30;570" dur="22s" repeatCount="indefinite"/></circle>
+ <circle cx="430" cy="-18" r="4"><animate attributeName="cy" values="-18;570" dur="25s" repeatCount="indefinite"/></circle>
+ <circle cx="650" cy="-25" r="2.5"><animate attributeName="cy" values="-25;570" dur="19s" repeatCount="indefinite"/></circle>
+ <circle cx="820" cy="-40" r="3"><animate attributeName="cy" values="-40;570" dur="24s" repeatCount="indefinite"/></circle>
+ <circle cx="1000" cy="-20" r="2"><animate attributeName="cy" values="-20;570" dur="16s" repeatCount="indefinite"/></circle>
+ <circle cx="1120" cy="-35" r="3.5"><animate attributeName="cy" values="-35;570" dur="21s" repeatCount="indefinite"/></circle>
+ <circle cx="1320" cy="-12" r="2.5"><animate attributeName="cy" values="-12;570" dur="18s" repeatCount="indefinite"/></circle>
+ <circle cx="1510" cy="-25" r="3"><animate attributeName="cy" values="-25;570" dur="23s" repeatCount="indefinite"/></circle>
+</g>
+<g stroke="#DDF7FF" stroke-width="1.5" stroke-linecap="round" opacity=".48">
+ <path d="M340 80v12m-6-6h12"><animateTransform attributeName="transform" type="translate" values="0 -100;0 560" dur="28s" repeatCount="indefinite"/></path>
+ <path d="M900 110v12m-6-6h12"><animateTransform attributeName="transform" type="translate" values="0 -140;0 560" dur="32s" repeatCount="indefinite"/></path>
+ <path d="M1450 60v12m-6-6h12"><animateTransform attributeName="transform" type="translate" values="0 -80;0 560" dur="26s" repeatCount="indefinite"/></path>
+</g>
 </svg>
