@@ -1,18 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Amirreza Mirhaj — electric A monogram</title>
-<desc id="desc">A futuristic forest-green and mint monogram with circuit-inspired connections.</desc>
-<defs>
- <linearGradient id="bg" x1="24" y1="18" x2="232" y2="242" gradientUnits="userSpaceOnUse"><stop stop-color="#123D2B"/><stop offset=".55" stop-color="#0B211A"/><stop offset="1" stop-color="#101A2A"/></linearGradient>
- <linearGradient id="neon" x1="48" y1="42" x2="204" y2="214" gradientUnits="userSpaceOnUse"><stop stop-color="#D0FFE0"/><stop offset=".48" stop-color="#65F5B0"/><stop offset="1" stop-color="#38C9E8"/></linearGradient>
- <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<rect x="8" y="8" width="240" height="240" rx="58" fill="url(#bg)"/>
-<rect x="9" y="9" width="238" height="238" rx="57" fill="none" stroke="#65F5B0" stroke-opacity=".42" stroke-width="2"/>
-<path d="M34 183H58L105 68Q112 51 128 51Q144 51 151 68L198 183H222" fill="none" stroke="#65F5B0" stroke-opacity=".13" stroke-width="20" stroke-linecap="round" filter="url(#glow)"/>
-<path d="M43 190 108 61Q116 45 128 45Q140 45 148 61L213 190" fill="none" stroke="url(#neon)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
-<path d="M81 145H175" stroke="#E9FFF2" stroke-width="10" stroke-linecap="round"/>
-<path d="M175 145 202 118H222" fill="none" stroke="#65F5B0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="222" cy="118" r="9" fill="#CFFFF0" stroke="#38C9E8" stroke-width="3"/>
-<circle cx="43" cy="190" r="7" fill="#BFFFF0"/><circle cx="213" cy="190" r="7" fill="#BFFFF0"/>
-<path d="M35 218H73M183 218H221" stroke="#65F5B0" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
+<title id="title">Amirreza Mirhaj electric monogram</title><desc id="desc">A futuristic A-shaped monogram with a mint electric bolt on a deep forest-green background.</desc>
+<defs><linearGradient id="bg" x1="18" y1="12" x2="236" y2="245"><stop stop-color="#164b35"/><stop offset=".55" stop-color="#0a2119"/><stop offset="1" stop-color="#101a2c"/></linearGradient><linearGradient id="e" x1="45" y1="35" x2="210" y2="220"><stop stop-color="#e5fff1"/><stop offset=".45" stop-color="#70ffb9"/><stop offset=".8" stop-color="#35dfc2"/><stop offset="1" stop-color="#61baff"/></linearGradient><filter id="g" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="7" y="7" width="242" height="242" rx="58" fill="url(#bg)"/><rect x="8" y="8" width="240" height="240" rx="57" fill="none" stroke="#75ffbd" stroke-opacity=".5" stroke-width="2"/>
+<path d="M40 198 106 61Q116 41 128 41Q140 41 150 61L216 198" fill="none" stroke="url(#e)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)"/>
+<path d="M76 145H179" stroke="#e5fff1" stroke-width="11" stroke-linecap="round"/>
+<path d="m134 78-36 72h30l-12 52 51-83h-33Z" fill="url(#e)" stroke="#effff6" stroke-width="2" stroke-linejoin="round" filter="url(#g)"/>
+<path d="M179 145 204 120H225" fill="none" stroke="#70ffb9" stroke-width="5" stroke-linecap="round"/><circle cx="226" cy="120" r="8" fill="#e5fff1" stroke="#35dfc2" stroke-width="3"/>
+<circle cx="40" cy="198" r="6" fill="#d7ffec"/><circle cx="216" cy="198" r="6" fill="#d7ffec"/>
 </svg>
