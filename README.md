@@ -105,7 +105,7 @@ I keep implemented functionality separate from planned work. Project-specific li
 
 The local vector panels below are a snapshot of technologies used, explored, or currently being learned — **not a proficiency ranking**.
 
-<img src="./assets/technology-constellation.svg" width="100%" alt="Python, JavaScript, TypeScript, React, Node.js, Vite, Git, and n8n technology icons" />
+<img src="./assets/technology-constellation.svg" width="100%" alt="Python, JavaScript, TypeScript, React, Node.js, Vite, Git, n8n, Django, SQLite, Streamlit, and VS Code technology icons" />
 
 <img src="./assets/ai-automation.svg" width="100%" alt="n8n, Ollama, OpenRouter, LM Studio, Claude Code, OpenAI Codex, and OpenCode tools" />
 
