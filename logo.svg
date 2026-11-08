@@ -1,14 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
-  <title id="title">Amirreza Mirhaj mark</title>
-  <desc id="desc">A compact forest-green monogram combining an abstract A shape with connected nodes.</desc>
-  <defs>
-    <linearGradient id="bg" x1="12" y1="8" x2="116" y2="120" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#173D2B"/><stop offset="1" stop-color="#0C2118"/></linearGradient>
-    <linearGradient id="mint" x1="32" y1="22" x2="92" y2="103" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#B7F7CF"/><stop offset="1" stop-color="#55C98B"/></linearGradient>
-  </defs>
-  <rect x="4" y="4" width="120" height="120" rx="30" fill="url(#bg)"/>
-  <rect x="5" y="5" width="118" height="118" rx="29" fill="none" stroke="#6DCB95" stroke-opacity=".35" stroke-width="2"/>
-  <path d="M29 91 54 35c2-5 8-5 10 0l25 56" fill="none" stroke="url(#mint)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
-  <path d="M42 69h35" fill="none" stroke="#E8FFF0" stroke-linecap="round" stroke-width="7"/>
-  <path d="M77 69 96 51" fill="none" stroke="#77DDA3" stroke-linecap="round" stroke-width="4"/>
-  <circle cx="98" cy="49" r="7" fill="#B7F7CF"/><circle cx="29" cy="91" r="5" fill="#B7F7CF"/><circle cx="89" cy="91" r="5" fill="#B7F7CF"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Amirreza Mirhaj — electric A monogram</title>
+<desc id="desc">A futuristic forest-green and mint monogram with circuit-inspired connections.</desc>
+<defs>
+ <linearGradient id="bg" x1="24" y1="18" x2="232" y2="242" gradientUnits="userSpaceOnUse"><stop stop-color="#123D2B"/><stop offset=".55" stop-color="#0B211A"/><stop offset="1" stop-color="#101A2A"/></linearGradient>
+ <linearGradient id="neon" x1="48" y1="42" x2="204" y2="214" gradientUnits="userSpaceOnUse"><stop stop-color="#D0FFE0"/><stop offset=".48" stop-color="#65F5B0"/><stop offset="1" stop-color="#38C9E8"/></linearGradient>
+ <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="8" y="8" width="240" height="240" rx="58" fill="url(#bg)"/>
+<rect x="9" y="9" width="238" height="238" rx="57" fill="none" stroke="#65F5B0" stroke-opacity=".42" stroke-width="2"/>
+<path d="M34 183H58L105 68Q112 51 128 51Q144 51 151 68L198 183H222" fill="none" stroke="#65F5B0" stroke-opacity=".13" stroke-width="20" stroke-linecap="round" filter="url(#glow)"/>
+<path d="M43 190 108 61Q116 45 128 45Q140 45 148 61L213 190" fill="none" stroke="url(#neon)" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+<path d="M81 145H175" stroke="#E9FFF2" stroke-width="10" stroke-linecap="round"/>
+<path d="M175 145 202 118H222" fill="none" stroke="#65F5B0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="222" cy="118" r="9" fill="#CFFFF0" stroke="#38C9E8" stroke-width="3"/>
+<circle cx="43" cy="190" r="7" fill="#BFFFF0"/><circle cx="213" cy="190" r="7" fill="#BFFFF0"/>
+<path d="M35 218H73M183 218H221" stroke="#65F5B0" stroke-opacity=".55" stroke-width="3" stroke-linecap="round"/>
 </svg>
