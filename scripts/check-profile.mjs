@@ -76,6 +76,16 @@ for (const file of svgFiles) {
 }
 if (failures.length === 0) pass(`All ${svgFiles.length} SVG assets pass structural, ID, and reference checks`);
 
+
+for (const relative of ["banner.svg", "assets/frost-glass.svg"]) {
+  const animatedSvg = fs.readFileSync(path.join(root, relative), "utf8");
+  if (!animatedSvg.includes("<animate")) fail(`Expected animated snowfall is missing: ${relative}`);
+}
+if (!readme.includes("<details>") || !readme.includes("<table>")) {
+  fail("The collapsible toolbox and project tables must remain present");
+}
+if (failures.length === 0) pass("Snowfall animation and interactive README sections are present");
+
 if (failures.length) {
   console.error("\nProfile quality checks failed:");
   for (const failure of failures) console.error(`- ${failure}`);
