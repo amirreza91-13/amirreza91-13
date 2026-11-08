@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Frostbyte glass and snowfall layer</title>
+<desc id="desc">Translucent icy glass panels, crystalline frost edges, and gentle animated snow drifting over a midnight-blue surface.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#EAF8FF"/><stop offset=".22" stop-color="#9CCCE8"/><stop offset=".56" stop-color="#244B70"/><stop offset="1" stop-color="#071525"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".36"/><stop offset=".45" stop-color="#BDEEFF" stop-opacity=".12"/><stop offset="1" stop-color="#6BCFFF" stop-opacity=".06"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#FFFFFF"/><stop offset=".5" stop-color="#9DEBFF"/><stop offset="1" stop-color="#6C9FE1"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+ <filter id="shine"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="260" rx="26" fill="url(#bg)"/>
+<circle cx="180" cy="20" r="160" fill="#A8EDFF" opacity=".18" filter="url(#blur)"/>
+<circle cx="1030" cy="240" r="180" fill="#75B9F2" opacity=".18" filter="url(#blur)"/>
+<g fill="url(#glass)" stroke="url(#edge)" stroke-opacity=".72">
+ <rect x="34" y="34" width="350" height="192" rx="24"/>
+ <rect x="420" y="34" width="350" height="192" rx="24"/>
+ <rect x="806" y="34" width="360" height="192" rx="24"/>
+</g>
+<g fill="none" stroke="#EAFBFF" stroke-opacity=".34">
+ <path d="M55 78 100 38h85M440 78l44-40h84M830 78l44-40h84"/>
+ <path d="M55 190 95 226h86M440 190l40 36h84M830 190l40 36h84"/>
+</g>
+<g stroke="#E8FAFF" stroke-width="2" stroke-linecap="round" opacity=".8">
+ <path d="M120 105v44m-22-22h44m-37-15 30 30m0-30-30 30"/>
+ <path d="M505 105v44m-22-22h44m-37-15 30 30m0-30-30 30"/>
+ <path d="M895 105v44m-22-22h44m-37-15 30 30m0-30-30 30"/>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" fill="#FFFFFF">
+ <text x="185" y="132" font-size="22" font-weight="700" letter-spacing="2">CRYSTAL UI</text>
+ <text x="185" y="163" font-size="14" fill="#D6F1FF">Layered glass surfaces</text>
+ <text x="570" y="132" font-size="22" font-weight="700" letter-spacing="2">FROST LAYER</text>
+ <text x="570" y="163" font-size="14" fill="#D6F1FF">Soft light / sharp edges</text>
+ <text x="960" y="132" font-size="22" font-weight="700" letter-spacing="2">SNOWFALL</text>
+ <text x="960" y="163" font-size="14" fill="#D6F1FF">Quiet motion / clear focus</text>
+</g>
+<g fill="#FFFFFF" opacity=".8" filter="url(#shine)">
+ <circle cx="60" cy="-10" r="3"><animate attributeName="cy" values="-10;275" dur="13s" repeatCount="indefinite"/></circle>
+ <circle cx="270" cy="-20" r="2"><animate attributeName="cy" values="-20;275" dur="19s" repeatCount="indefinite"/></circle>
+ <circle cx="405" cy="-8" r="3"><animate attributeName="cy" values="-8;275" dur="16s" repeatCount="indefinite"/></circle>
+ <circle cx="620" cy="-15" r="2"><animate attributeName="cy" values="-15;275" dur="22s" repeatCount="indefinite"/></circle>
+ <circle cx="780" cy="-5" r="3"><animate attributeName="cy" values="-5;275" dur="17s" repeatCount="indefinite"/></circle>
+ <circle cx="980" cy="-18" r="2"><animate attributeName="cy" values="-18;275" dur="20s" repeatCount="indefinite"/></circle>
+ <circle cx="1140" cy="-12" r="3"><animate attributeName="cy" values="-12;275" dur="15s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="1" y="1" width="1198" height="258" rx="25" fill="none" stroke="#EAFBFF" stroke-opacity=".7" stroke-width="2"/>
+</svg>
