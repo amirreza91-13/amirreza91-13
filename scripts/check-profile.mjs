@@ -8,9 +8,9 @@ const failures = [];
 const pass = (message) => console.log(`PASS  ${message}`);
 const fail = (message) => failures.push(message);
 
-const imageSources = [...readme.matchAll(/<img\\b[^>]*\\bsrc=["']([^"']+)["']/gi)].map((match) => match[1]);
+const imageSources = [...readme.matchAll(/<img\b[^>]*\bsrc=["']([^"']+)["']/gi)].map((match) => match[1]);
 for (const source of imageSources) {
-  if (/^https?:\\/\\//i.test(source)) {
+  if (/^https?:\/\//i.test(source)) {
     fail(`Remote image source is not allowed: ${source}`);
     continue;
   }
@@ -46,29 +46,29 @@ const svgFiles = [path.join(root, "banner.svg"), path.join(root, "logo.svg"), ..
 for (const file of svgFiles) {
   const relative = path.relative(root, file);
   const svg = fs.readFileSync(file, "utf8");
-  if (!/^\\s*<svg\\b/.test(svg) || !/<\\/svg>\\s*$/.test(svg)) fail(`Invalid SVG root or closing tag: ${relative}`);
+  if (!/^\s*<svg\b/.test(svg) || !/<\/svg>\s*$/.test(svg)) fail(`Invalid SVG root or closing tag: ${relative}`);
   if (svg.includes("scale(.?") || svg.includes("TODO") || svg.includes("REPLACE_ME")) fail(`Placeholder or unfinished transform found: ${relative}`);
 
-  const ids = [...svg.matchAll(/\\bid=["']([^"']+)["']/g)].map((match) => match[1]);
+  const ids = [...svg.matchAll(/\bid=["']([^"']+)["']/g)].map((match) => match[1]);
   if (new Set(ids).size !== ids.length) fail(`Duplicate SVG IDs: ${relative}`);
   const idSet = new Set(ids);
-  for (const ref of [...svg.matchAll(/url\\(#([^)]+)\\)/g)].map((match) => match[1])) {
+  for (const ref of [...svg.matchAll(/url\(#([^)]+)\)/g)].map((match) => match[1])) {
     if (!idSet.has(ref)) fail(`Unresolved SVG paint/filter reference #${ref}: ${relative}`);
   }
 
-  const source = svg.replace(/<!--[\\s\\S]*?-->/g, "");
+  const source = svg.replace(/<!--[\s\S]*?-->/g, "");
   const stack = [];
-  const tags = source.match(/<\\/?[A-Za-z][^>]*>/g) ?? [];
+  const tags = source.match(/<\/?[A-Za-z][^>]*>/g) ?? [];
   for (const tag of tags) {
-    const close = tag.match(/^<\\/([A-Za-z][\\w:-]*)/);
+    const close = tag.match(/^<\/([A-Za-z][\w:-]*)/);
     if (close) {
       const expected = stack.pop();
       if (expected !== close[1]) {
         fail(`Unbalanced SVG tag in ${relative}: expected </${expected ?? "none"}>, found </${close[1]}>`);
         break;
       }
-    } else if (!/^<\\?|^<!/.test(tag) && !/\\/\\s*>$/.test(tag)) {
-      const name = tag.match(/^<([A-Za-z][\\w:-]*)/)?.[1];
+    } else if (!/^<\?|^<!/.test(tag) && !/\/\s*>$/.test(tag)) {
+      const name = tag.match(/^<([A-Za-z][\w:-]*)/)?.[1];
       if (name) stack.push(name);
     }
   }
@@ -77,8 +77,8 @@ for (const file of svgFiles) {
 if (failures.length === 0) pass(`All ${svgFiles.length} SVG assets pass structural, ID, and reference checks`);
 
 if (failures.length) {
-  console.error("\\nProfile quality checks failed:");
+  console.error("\nProfile quality checks failed:");
   for (const failure of failures) console.error(`- ${failure}`);
   process.exit(1);
 }
-console.log("\\nFrostbyte profile quality checks passed.");
+console.log("\nFrostbyte profile quality checks passed.");
