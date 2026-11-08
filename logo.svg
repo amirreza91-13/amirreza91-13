@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
-<title id="title">Amirreza Mirhaj electric monogram</title><desc id="desc">A futuristic A-shaped monogram with a mint electric bolt on a deep forest-green background.</desc>
-<defs><linearGradient id="bg" x1="18" y1="12" x2="236" y2="245"><stop stop-color="#164b35"/><stop offset=".55" stop-color="#0a2119"/><stop offset="1" stop-color="#101a2c"/></linearGradient><linearGradient id="e" x1="45" y1="35" x2="210" y2="220"><stop stop-color="#e5fff1"/><stop offset=".45" stop-color="#70ffb9"/><stop offset=".8" stop-color="#35dfc2"/><stop offset="1" stop-color="#61baff"/></linearGradient><filter id="g" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect x="7" y="7" width="242" height="242" rx="58" fill="url(#bg)"/><rect x="8" y="8" width="240" height="240" rx="57" fill="none" stroke="#75ffbd" stroke-opacity=".5" stroke-width="2"/>
-<path d="M40 198 106 61Q116 41 128 41Q140 41 150 61L216 198" fill="none" stroke="url(#e)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)"/>
-<path d="M76 145H179" stroke="#e5fff1" stroke-width="11" stroke-linecap="round"/>
-<path d="m134 78-36 72h30l-12 52 51-83h-33Z" fill="url(#e)" stroke="#effff6" stroke-width="2" stroke-linejoin="round" filter="url(#g)"/>
-<path d="M179 145 204 120H225" fill="none" stroke="#70ffb9" stroke-width="5" stroke-linecap="round"/><circle cx="226" cy="120" r="8" fill="#e5fff1" stroke="#35dfc2" stroke-width="3"/>
-<circle cx="40" cy="198" r="6" fill="#d7ffec"/><circle cx="216" cy="198" r="6" fill="#d7ffec"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="t d">
+<title id="t">Amirreza Mirhaj Frostbyte monogram</title><desc id="d">A faceted icy A monogram crossed by an electric cyan bolt on a midnight-blue glass tile.</desc>
+<defs><linearGradient id="bg" x1="20" y1="10" x2="230" y2="245"><stop stop-color="#EAF8FF"/><stop offset=".28" stop-color="#426F96"/><stop offset=".7" stop-color="#142E49"/><stop offset="1" stop-color="#071525"/></linearGradient><linearGradient id="ice" x1="50" y1="35" x2="210" y2="220"><stop stop-color="#FFFFFF"/><stop offset=".38" stop-color="#BDEFFF"/><stop offset=".75" stop-color="#66DFFF"/><stop offset="1" stop-color="#789FEA"/></linearGradient><filter id="g" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="7" y="7" width="242" height="242" rx="58" fill="url(#bg)"/><rect x="8" y="8" width="240" height="240" rx="57" fill="none" stroke="#E6FAFF" stroke-opacity=".8" stroke-width="2"/>
+<path d="M40 198 106 61Q116 41 128 41Q140 41 150 61L216 198" fill="none" stroke="url(#ice)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" filter="url(#g)"/>
+<path d="M76 145H179" stroke="#F5FCFF" stroke-width="11" stroke-linecap="round"/>
+<path d="m134 78-36 72h30l-12 52 51-83h-33Z" fill="url(#ice)" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" filter="url(#g)"/>
+<path d="M179 145 204 120H225" fill="none" stroke="#A4EDFF" stroke-width="5" stroke-linecap="round"/><circle cx="226" cy="120" r="8" fill="#FFFFFF" stroke="#66DFFF" stroke-width="3"/>
+<circle cx="40" cy="198" r="6" fill="#FFFFFF"/><circle cx="216" cy="198" r="6" fill="#FFFFFF"/>
 </svg>
